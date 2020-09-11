@@ -1,0 +1,3412 @@
+[
+{
+"id": "5f2425c99d821a691bf48eb4",
+"ref": {
+"title": "Pdtheyoutuber",
+"url": "https://mcpeaddons.app/steampunk-skin-pack"
+},
+"text": "This is a fun medieval styled skin pack that is great for roleplay or just hanging out and having fun. Enjoy the 9 skins in this pack that are amazingly detailed.\n\n# Installation\n\n• Download and install the skin pack\n• On the first screen, tap Profile.\n• Tap EDIT CHARACTER\n• Select the second tab\n• Tap OWNED\n• When you scroll down, you will see the skin pack you installed.\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd0fe4",
+"length": 22461,
+"title": "Skin Pack",
+"url": "http://mcpe.foxcode.org/steampunk-skin-pack/steampunk-skin-pack.mcpack",
+"md5": "6708b9f13e041dd8fdec2719667483de",
+"originUrl": "http://addons.mcpe.world/steampunk-skin-pack/steampunk-skin-pack.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd0fe6",
+"url": "http://mcpe.foxcode.org/steampunk-skin-pack/s01.jpg",
+"width": 720,
+"height": 480,
+"originUrl": "http://addons.mcpe.world/steampunk-skin-pack/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/steampunk-skin-pack/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fe7",
+"url": "http://mcpe.foxcode.org/steampunk-skin-pack/s02.jpg",
+"width": 720,
+"height": 358,
+"originUrl": "http://addons.mcpe.world/steampunk-skin-pack/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/steampunk-skin-pack/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fe8",
+"url": "http://mcpe.foxcode.org/steampunk-skin-pack/s03.jpg",
+"width": 720,
+"height": 920,
+"originUrl": "http://addons.mcpe.world/steampunk-skin-pack/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/steampunk-skin-pack/thumbnail/s03.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd0fe5",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.9166666666666665,
+"count": 24
+},
+"review": {
+"count": 21
+},
+"download": {
+"count": 5731,
+"ym202007": 4511,
+"ym202008": 1220
+}
+},
+"createdAt": 1596254400453,
+"updatedAt": 1596254400453,
+"updated": 1596204486,
+"title": "Steampunk Skin Pack",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 88
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f2425f7f41276e8ff85ea2d",
+"ref": {
+"title": "AD003330",
+"url": "https://mcpedl.com/traders-skyblock-map/"
+},
+"text": "Hello! Since the general sky block maps tend to have limited resources such as dirt or lava, that made me create this map. So you can sell and buy unlimited resources!\n\nThis map doesn’t have much to explore. This map will focus on farm resources to develop the island.If you are a person who likes farm resources, this map will be for you.\n\nHope you enjoy this map!\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd0fda",
+"length": 1828053,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/traders-skyblock-map/traders-skyblock.mcworld",
+"md5": "bd17be99c6a579c0c49d5de804f1529b",
+"originUrl": "http://addons.mcpe.world/traders-skyblock-map/traders-skyblock.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd0fdc",
+"url": "http://mcpe.foxcode.org/traders-skyblock-map/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/traders-skyblock-map/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/traders-skyblock-map/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fdd",
+"url": "http://mcpe.foxcode.org/traders-skyblock-map/s02.jpg",
+"width": 720,
+"height": 404,
+"originUrl": "http://addons.mcpe.world/traders-skyblock-map/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/traders-skyblock-map/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fde",
+"url": "http://mcpe.foxcode.org/traders-skyblock-map/s03.jpg",
+"width": 720,
+"height": 404,
+"originUrl": "http://addons.mcpe.world/traders-skyblock-map/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/traders-skyblock-map/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fdf",
+"url": "http://mcpe.foxcode.org/traders-skyblock-map/s04.jpg",
+"width": 720,
+"height": 404,
+"originUrl": "http://addons.mcpe.world/traders-skyblock-map/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/traders-skyblock-map/thumbnail/s04.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fe0",
+"url": "http://mcpe.foxcode.org/traders-skyblock-map/s05.jpg",
+"width": 720,
+"height": 404,
+"originUrl": "http://addons.mcpe.world/traders-skyblock-map/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/traders-skyblock-map/thumbnail/s05.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fe1",
+"url": "http://mcpe.foxcode.org/traders-skyblock-map/s06.jpg",
+"width": 720,
+"height": 404,
+"originUrl": "http://addons.mcpe.world/traders-skyblock-map/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/traders-skyblock-map/thumbnail/s06.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fe2",
+"url": "http://mcpe.foxcode.org/traders-skyblock-map/s07.jpg",
+"width": 720,
+"height": 404,
+"originUrl": "http://addons.mcpe.world/traders-skyblock-map/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/traders-skyblock-map/thumbnail/s07.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd0fdb",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.172413793103448,
+"count": 29
+},
+"review": {
+"count": 27
+},
+"download": {
+"count": 11276,
+"ym202007": 8921,
+"ym202008": 2355
+}
+},
+"createdAt": 1596254400447,
+"updatedAt": 1596254400447,
+"updated": 1596204521,
+"title": "Trader's Skyblock",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 359
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f24ce9df41276e8ff85ea3b",
+"ref": {
+"title": "SpEct4les",
+"url": "https://mcpedl.com/tamable-foxes-add-on/"
+},
+"text": "Did you ever want to tame a fox. Well with this addon you can :). Just give the little creature some sweet berries and take him home.\nThis Add-on is my first so expect to see Bugs :/\n\nI created this add-on as i have not seen anyone create an add-on which allows you tame a fox so i thought why not.\nIf you ever wanted to tame a fox but you didn’t want to do it the old way (breeding the foxes to make the baby not be scared of you) well now you can. I sadly haven’t been able to find a way to tame the arctic fox but maybe in the future? To tame a fox you will need to find sweet berries and feed them if it doesn’t work on the fox go on to a different fox and try again, Other than the way to tame the fox acts like a regular minecraft dog so if you wanted a fox instead of a dog you could easily do that.\nImage of Taming the fox:\n\nSeeing as this Add on is my first there are some bugs such as: The fox will not tame if nearby another fox tamed or wild and will attack tamed fox if too close. Which could be quite annoying but hey if you wanted a pet fox then you can persevere.\nFeel free to change and re-upload this mod because i’m sure other people can make a better version than this with arctic foxes.\nHope you like it\n\n# How to install\n\n• Download and install the behavior pack\n• Activate the behavior pack in your world settings\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd0fd4",
+"length": 19917,
+"title": "Behavior Pack",
+"url": "http://mcpe.foxcode.org/tamable-foxes-add-on/tameable-fox.mcpack",
+"md5": "f4c9eea8379974dd40c173de99c10c36",
+"originUrl": "http://addons.mcpe.world/tamable-foxes-add-on/tameable-fox.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd0fd6",
+"url": "http://mcpe.foxcode.org/tamable-foxes-add-on/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/tamable-foxes-add-on/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/tamable-foxes-add-on/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fd7",
+"url": "http://mcpe.foxcode.org/tamable-foxes-add-on/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/tamable-foxes-add-on/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/tamable-foxes-add-on/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fd8",
+"url": "http://mcpe.foxcode.org/tamable-foxes-add-on/s03.jpg",
+"width": 720,
+"height": 403,
+"originUrl": "http://addons.mcpe.world/tamable-foxes-add-on/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/tamable-foxes-add-on/thumbnail/s03.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd0fd5",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.333333333333333,
+"count": 9
+},
+"review": {
+"count": 8
+},
+"download": {
+"count": 832,
+"ym202008": 832
+}
+},
+"createdAt": 1596254400438,
+"updatedAt": 1596254400438,
+"updated": 1596247706,
+"title": "Tamable Foxes Add-on",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 311
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f24ceb79d821a691bf48ec8",
+"ref": {
+"title": "CubedLab",
+"url": "https://mcpedl.com/console-designer-map/"
+},
+"text": "Design your console in minecarft! Take on the role of a real designer! Build with friends or by yourself. Explore the huge console waiting to be rebuilt!\n\n• Huge console to rebuild!\n• Endless console rebuild possibilities!\n• 2 Skins\n• By CubedLab\n\nExplore the beautiful cubic world and play with friends and alone. Show off your angular console design! See what this map also hides.\n\nBecome a real console designer in minecraft. See the huge console. Play with friends or alone! Have fun with our skins. You can find it all on Console Designer by CubedLab\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd0fce",
+"length": 3595807,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/console-designer-map/console-designer.mcworld",
+"md5": "cacbf9c3ea14241100677a37712c6561",
+"originUrl": "http://addons.mcpe.world/console-designer-map/console-designer.mcworld"
+},
+{
+"_id": "5f25966e367fa15527bd0fcf",
+"length": 6821,
+"title": "Skin Pack",
+"url": "http://mcpe.foxcode.org/console-designer-map/console-designer-skin-pack.mcpack",
+"md5": "12ccc3cd2b4a1735db1831bba0d8d043",
+"originUrl": "http://addons.mcpe.world/console-designer-map/console-designer-skin-pack.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd0fd2",
+"url": "http://mcpe.foxcode.org/console-designer-map/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/console-designer-map/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/console-designer-map/thumbnail/maxresdefault.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd0fd0",
+"tag": "mcworld"
+},
+{
+"_id": "5f25966e367fa15527bd0fd1",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 2.6666666666666665,
+"count": 9
+},
+"review": {
+"count": 7
+},
+"download": {
+"count": 716,
+"ym202008": 716
+}
+},
+"createdAt": 1596254400433,
+"updatedAt": 1596254400433,
+"updated": 1596247732,
+"title": "Console Designer",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 540
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f24cee1f41276e8ff85ea3c",
+"ref": {
+"title": "Joltinghults",
+"url": "https://mcpedl.com/disaster-survival-map/"
+},
+"text": "Welcome to disaster survival!\n\nThis is my first map that I have uploaded so give feedback and suggestions were needed, let me know if it has worked and how you find it, this is one of my favorite command block projects so I decided to share it.\nIn this map you need to survive one of the 7 deadly disasters ( with more coming soon ) that will try to take you down in each of the five maps ( map update soon )\nYou can buy things to help you or give you special abilities in the new shop!\n\nTo go into spectator mode throw the emerald in your last hotbar slot onto the floor, the emerald will be replaced with a compass that you throw to go back to normal.\nLoot chests are a custom drop from all mobs made with commands\nboosts and other fun things are found in the shop!\n\nThere are 5 different maps so far although I am planning to add more!\n\nThe entire map is run by redstone, command blocks, npcs and structure blocks! No add-ons or modifications.\n\nBonus rounds coming soon in the next update!\nThis map is inspired by the roblox game natural disaster survival and grians old disaster survival on his old server. The disaster here’s Johnny is taken from the mcpedl.com map survive the events, so if the creator wants me to remove it I will.\n\nIf you want to help make this map i will consider helping as it is mostly just me so far (builders especially)\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd0fc5",
+"length": 427644,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/disaster-survival-map/disaster-survival.mcworld",
+"md5": "d98308b0a2c4b9cf38342d65a17f346a",
+"originUrl": "http://addons.mcpe.world/disaster-survival-map/disaster-survival.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd0fc7",
+"url": "http://mcpe.foxcode.org/disaster-survival-map/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/disaster-survival-map/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/disaster-survival-map/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fc8",
+"url": "http://mcpe.foxcode.org/disaster-survival-map/s02.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/disaster-survival-map/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/disaster-survival-map/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fc9",
+"url": "http://mcpe.foxcode.org/disaster-survival-map/s03.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/disaster-survival-map/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/disaster-survival-map/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fca",
+"url": "http://mcpe.foxcode.org/disaster-survival-map/s04.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/disaster-survival-map/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/disaster-survival-map/thumbnail/s04.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fcb",
+"url": "http://mcpe.foxcode.org/disaster-survival-map/s05.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/disaster-survival-map/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/disaster-survival-map/thumbnail/s05.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fcc",
+"url": "http://mcpe.foxcode.org/disaster-survival-map/s06.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/disaster-survival-map/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/disaster-survival-map/thumbnail/s06.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd0fc6",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4,
+"count": 6
+},
+"review": {
+"count": 3
+},
+"download": {
+"count": 781,
+"ym202008": 781
+}
+},
+"createdAt": 1596254400426,
+"updatedAt": 1596254400426,
+"updated": 1596247771,
+"title": "Disaster Survival",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 304
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f2251b482890fa1551cf47e",
+"ref": {
+"title": "Estrongel",
+"url": "https://mcpedl.com/treasure-hunter-series-dimensions-map/"
+},
+"text": "Get ready to traverse the dimensions! THS:Dimensions will challenge you with  a wide array of brand new puzzles at varying levels of difficulty. Choose the order you do the puzzles in, steal the treasure, and escape the dimensions before it’s too late!\n\nTHS:Dimensions is the next map in my treasure hunter series that puts you through challenging puzzles in an adventure-like style! In THS:Dimensions you’ll be traveling through 4 different dimensions, each containing a different puzzle to complete. Acquire all 4 dimensional keys, steal the dimensional treasure, and escape!\n\nEach map I make I try my best to improve on what I did for my last map, so if you have any feedback, please let me know!\n\nIf you want to get updated on when my latest maps release, subscribe to my YT and join my discord server!\n\nDiscord: https://discord.gg/gM8FjvT\nYoutube: https://www.youtube.com/channel/UCZnU2d_P45hy5LHbCQ3xiOA\n\nI also allow all of you to vote on my map for difficulty and time to complete! check out the polls! (If you haven’t played it yet, choose results instead of vote to see what people have rated the map)\n\nDifficulty: https://strawpoll.com/z87xcccrg\nTime to Complete: https://strawpoll.com/d3kfwjkc8\n\nI also develop my maps to work on both JAVA and WIN10/Bedrock edition, so if you’d rather play on Java edition, go to my YT channel or discord to find those download links!\n\nI also do walk-through’s for all of my maps in-case you get stuck, so if you have trouble, check out my guide here: https://www.youtube.com/watch?v=K6Sh6CCkSiY\n\nOne last thing before you go traverse the dimensions, this map is meant to take more time to complete then my smaller puzzle maps, so make sure you set aside a chunk of time before playing this!\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd1021",
+"length": 734235,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/ths-dimensions-v-play-win10.mcworld",
+"md5": "cd39bdbad47b7cf153fb91fafcedc02b",
+"originUrl": "http://addons.mcpe.world/treasure-hunter-series-dimensions-map/ths-dimensions-v-play-win10.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd1023",
+"url": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/treasure-hunter-series-dimensions-map/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/thumbnail/s04.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1024",
+"url": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/treasure-hunter-series-dimensions-map/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1025",
+"url": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/treasure-hunter-series-dimensions-map/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1026",
+"url": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/treasure-hunter-series-dimensions-map/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/treasure-hunter-series-dimensions-map/thumbnail/s01.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd1022",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.2777777777777777,
+"count": 18
+},
+"review": {
+"count": 15
+},
+"download": {
+"count": 7361,
+"ym202007": 7361
+}
+},
+"createdAt": 1596168000397,
+"updatedAt": 1596168000397,
+"updated": 1596084655,
+"title": "Treasure Hunter Series: Dimensions",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 268
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f2251d85b5df1c925ab3a25",
+"ref": {
+"title": "Gab_The_Crafter",
+"url": "https://mcpeaddons.app/large-modern-starter-house"
+},
+"text": "Scar's WorldWell hello there, GabTheCrafter here bringing you, The world is full of awesome Minecraft houses. The house designs vary from modern homes, an adobe house and a Southern Antebellum mansion. I hope you enjoy touring the world and get inspired to create your own amazing house in Minecraft.\nBig thanks to GoodTimesWithScar for this amazing project! Credits to him.\nTexture Pack Used: None Shader Used: Sildur's Vibrant Shaders\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd1019",
+"length": 30964954,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/large-modern-starter-house/large-modern-starter-house.mcworld",
+"md5": "65c8f15dfc2b6999582816f060c82ba3",
+"originUrl": "http://addons.mcpe.world/large-modern-starter-house/large-modern-starter-house.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd101b",
+"url": "http://mcpe.foxcode.org/large-modern-starter-house/s05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/large-modern-starter-house/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/large-modern-starter-house/thumbnail/s05.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd101c",
+"url": "http://mcpe.foxcode.org/large-modern-starter-house/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/large-modern-starter-house/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/large-modern-starter-house/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd101d",
+"url": "http://mcpe.foxcode.org/large-modern-starter-house/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/large-modern-starter-house/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/large-modern-starter-house/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd101e",
+"url": "http://mcpe.foxcode.org/large-modern-starter-house/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/large-modern-starter-house/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/large-modern-starter-house/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd101f",
+"url": "http://mcpe.foxcode.org/large-modern-starter-house/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/large-modern-starter-house/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/large-modern-starter-house/thumbnail/s04.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd101a",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.880952380952381,
+"count": 42
+},
+"review": {
+"count": 31
+},
+"download": {
+"count": 20350,
+"ym202007": 20350
+}
+},
+"createdAt": 1596168000391,
+"updatedAt": 1596168000391,
+"updated": 1596084690,
+"title": "Large Modern Starter House",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 672
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f22d81482890fa1551cf494",
+"ref": {
+"title": "RoMar",
+"url": "https://mcpedl.com/villagertotem-pack/"
+},
+"text": "This texture is made for fun, This replaces the ‘Totem of Undying’ texture and makes it look like a Villager Farmer, this is also my first texture pack that I made.\n\nThis pack replaces the original totem of undying’s texture and adds a villager as a replacement, I made this texture  just for fun, I am not getting anything from this, I would also be glad if you suggested a texture that you would really like, I would try and create it. Thanks!\n\n# How to install\n\n• Download and install the resource pack\n• Activate the pack you installed in your world settings or global settings (Settings > Global resources)\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd1012",
+"length": 144252,
+"title": "Resource Pack",
+"url": "http://mcpe.foxcode.org/villagertotem-pack/villagertotem.mcpack",
+"md5": "549fb49822679c1aaa61a10119d5d69c",
+"originUrl": "http://addons.mcpe.world/villagertotem-pack/villagertotem.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd1014",
+"url": "http://mcpe.foxcode.org/villagertotem-pack/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/villagertotem-pack/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/villagertotem-pack/thumbnail/s04.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1015",
+"url": "http://mcpe.foxcode.org/villagertotem-pack/s01.jpg",
+"width": 720,
+"height": 324,
+"originUrl": "http://addons.mcpe.world/villagertotem-pack/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/villagertotem-pack/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1016",
+"url": "http://mcpe.foxcode.org/villagertotem-pack/s02.jpg",
+"width": 720,
+"height": 324,
+"originUrl": "http://addons.mcpe.world/villagertotem-pack/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/villagertotem-pack/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1017",
+"url": "http://mcpe.foxcode.org/villagertotem-pack/s03.jpg",
+"width": 720,
+"height": 324,
+"originUrl": "http://addons.mcpe.world/villagertotem-pack/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/villagertotem-pack/thumbnail/s03.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd1013",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.355555555555555,
+"count": 45
+},
+"review": {
+"count": 44
+},
+"download": {
+"count": 2631,
+"ym202007": 2631
+}
+},
+"createdAt": 1596168000378,
+"updatedAt": 1596168000378,
+"updated": 1596119056,
+"title": "VillagerTotem",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 238
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f22d82d1f64954188441f96",
+"ref": {
+"title": "Exposed Lava",
+"url": "https://mcpeaddons.app/summer-find-the-button-map"
+},
+"text": "In Summer Find The Button theres 7 dimmfront Levels related to summer Things and activities where you have to find a button to get to the next level and at the end You get to dig up some buried Treashure and do what ever You want with it, if you like this map and want to see other maps just like it come check out my YT Channel where I upload all my trailers weekly and other random videos I will upload every once and a while if I'm bored\n\nYT Channel: https://www.youtube.com/channel/UCedxr87GkybggDHjVu4uc6A\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd1007",
+"length": 16084567,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/summer-find-the-button.mcworld",
+"md5": "5119145fcc2e35176209a679f791a4f2",
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/summer-find-the-button.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd1009",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/summer-find-the-button-map/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd100a",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/summer-find-the-button-map/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd100b",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/summer-find-the-button-map/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd100c",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/summer-find-the-button-map/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd100d",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/summer-find-the-button-map/thumbnail/s04.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd100e",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/s05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/summer-find-the-button-map/thumbnail/s05.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd100f",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/s06.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/summer-find-the-button-map/thumbnail/s06.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1010",
+"url": "http://mcpe.foxcode.org/summer-find-the-button-map/s07.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/summer-find-the-button-map/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/summer-find-the-button-map/thumbnail/s07.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd1008",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.35,
+"count": 20
+},
+"review": {
+"count": 17
+},
+"download": {
+"count": 14269,
+"ym202007": 14269
+}
+},
+"createdAt": 1596168000370,
+"updatedAt": 1596168000370,
+"updated": 1596119076,
+"title": "Summer Find The Button",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 439
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f22d8455b5df1c925ab3a41",
+"ref": {
+"title": "NeJi111",
+"url": "https://mcpedl.com/overlord-nazarick-ruins-map/"
+},
+"text": "An inaccurate version of the Nazarick Ruins from the Anime Series Overlord\nI’m a huge fan of the anime series so i decided to build a model of the nazarick ruins though this is an innacurate and incomplete version (the interior and exterior is already done)i you guys like it,this is my first upload so i know there’s many things i still dont know and I’ll be happy to see some reviews about this that’ll hopefully guide me.\n\nI’ve already completed the inside and the outside of the ruins but i still need to add some details and since i made this on an Infinite world this might lag on some devices\n\nNote:this isn’t as big because it’ll be laggy if it is,and I’m also using shaders so the lightings and shadows will look different if you dont use one\n\nsince there isn’t much photos to use as a reference this version is inaccurate\n\nI’ll upload an updated version of this in a few weeks?months?i don’t know but I’ll be sure to upload it\n\nand i aslo plan on uploading another version which will be more accurate I’ll try searching for more reference.\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd1000",
+"length": 13849244,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/nazarick-1.mcworld",
+"md5": "3ec1f4799aa67e3e4e3680908f65747c",
+"originUrl": "http://addons.mcpe.world/overlord-nazarick-ruins-map/nazarick-1.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd1002",
+"url": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/overlord-nazarick-ruins-map/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1003",
+"url": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/overlord-nazarick-ruins-map/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1004",
+"url": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/overlord-nazarick-ruins-map/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1005",
+"url": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/overlord-nazarick-ruins-map/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/overlord-nazarick-ruins-map/thumbnail/s04.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd1001",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.205128205128205,
+"count": 39
+},
+"review": {
+"count": 34
+},
+"download": {
+"count": 10454,
+"ym202007": 10454
+}
+},
+"createdAt": 1596168000364,
+"updatedAt": 1596168000364,
+"updated": 1596119105,
+"title": "Overlord Nazarick Ruins (Inaccurate Version)",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 732
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f237c925b5df1c925ab3a45",
+"ref": {
+"title": "Team Infinite Minds",
+"url": "https://teaminfiniteminds.com/nether-plus-addon/"
+},
+"text": "An incredible addon that adds new entities to the underworld that brings you many more dangers and increases the difficulty for a unique experience in the underworld\n\nWelcome to Nether Plus\n\nAn addon that adds 8 new entities to the game giving you additional difficulty in the underworld, also adds 7 new food items\n\n# New entities\n\nCrimson Pig:\n\n• Custom Animations\n• They appear in the biome camersí and twisted forest\n• This new entity is hostile towards the players.\n• They fear a pig soul sand and blue light or blue fire\n• Also fear pigs\n• Drop sweets and make exchanges\n\nBasalt Pig:\n\n• Custom Animations\n• They appear in the basalt delta biome\n• This new entity is hostile towards the players and very aggressive.\n• They fear a pig soul sand and blue light or blue fire\n• Also fear pigs\n• Drop sweets and make exchanges\n\nSoul Sand Pig:\n\n• Custom animations\n• They appear in the sand biome of the soul and their appearance is very strange since it can appear in other biomes\n• This new entity is peaceful if you don't attack it (hostile only if you attack it)\n• He is not afraid of any creature\n• Drop sweets and other things\n\nSoul Sand Blaze:\n\n• Health 55\n• Attacks players\n• Drop a soul sand blaze wand\n• Spaw deep in the underworld biome of sould sand\n\nBasalt Blaze:\n\n• Health 55\n• Attacks players\n• Drop a basalt blaze wand\n• Spawns in the depths of the underworld delta basal biome\n\nCrimson Blaze:\n\n• Health 45\n• Attacks players\n• Spawn deep in the crimson forest biome underworld\n• Drop a crimson wand\n\nBlaze Twisted:\n\n• Health 45\n• Attack players\n• Spawn deep in the Twisted Forest Biome Underworld\n• Drop a twisted wand\n\n# Consumable items\n\n• Crimson Wand (Effect)\n• Basalt Wand (Effect)\n• Twisted Wand (Effect)\n• Soul Sand Wand (Effect)\n\n# How to install\n\n• Download and install both behavior pack and resource pack\n• Activate both behavior and resource pack in your world settings\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd0ff0",
+"length": 601565,
+"title": "Behavior Pack",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/netherplus-b-v2.mcpack",
+"md5": "80648215f1f4167a61e285977c0b96da",
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/netherplus-b-v2.mcpack"
+},
+{
+"_id": "5f25966e367fa15527bd0ff1",
+"length": 1323892,
+"title": "Resource Pack",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/netherplus-r-v2.mcpack",
+"md5": "027c6a6828df456d35b09a6a295c453b",
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/netherplus-r-v2.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd0ff3",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s01.jpg",
+"width": 720,
+"height": 382,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ff4",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s02.jpg",
+"width": 720,
+"height": 380,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ff5",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s03.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ff6",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s04.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s04.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ff7",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s05.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s05.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ff8",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s06.jpg",
+"width": 720,
+"height": 450,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s06.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ff9",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s07.jpg",
+"width": 720,
+"height": 90,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s07.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ffa",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s08.jpg",
+"width": 720,
+"height": 216,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s08.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ffb",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s09.jpg",
+"width": 720,
+"height": 381,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s09.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s09.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ffc",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s10.jpg",
+"width": 720,
+"height": 381,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s10.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s10.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ffd",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s11.jpg",
+"width": 720,
+"height": 381,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s11.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s11.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0ffe",
+"url": "http://mcpe.foxcode.org/nether-plus-addon/s12.jpg",
+"width": 720,
+"height": 380,
+"originUrl": "http://addons.mcpe.world/nether-plus-addon/s12.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-plus-addon/thumbnail/s12.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd0ff2",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 2.230769230769231,
+"count": 13
+},
+"review": {
+"count": 10
+},
+"download": {
+"count": 332,
+"ym202007": 332
+}
+},
+"createdAt": 1596168000356,
+"updatedAt": 1596168000356,
+"updated": 1596161163,
+"title": "Nether Plus Addon",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 932
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f237f631f64954188441f9c",
+"ref": {
+"title": "GoggledGecko",
+"url": "https://mcpedl.com/working-plague-inc-inside-of-minecraft-bedrock/"
+},
+"text": "Have you ever wondered what it would be like to play Plague inc. inside of Minecraft? Well, now you can experience just that! This map is pretty much exactly like the game, complete with multiple upgrades as well as having to infect, and kill the human race\n\nSo this map was created in vanilla Minecraft and uses a ton of command blocks. Throw down your virus and watch it conquer the entire world. It even has upgrades that you can purchase for your virus, and obviously also a way to earn DNA points (the currency)\nIf you have never played the game, fear not because the map comes with a book that will teach you all you need to know about the game\n\nIf you would like to find out more about how the commands work, I explained it in this Youtube video on my channel\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd0fea",
+"length": 4945256,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/working-plague-inc-inside-of-minecraft-bedrock/plague-inc-new.mcworld",
+"md5": "b63f8316f16daed348cb1cee5e25d133",
+"originUrl": "http://addons.mcpe.world/working-plague-inc-inside-of-minecraft-bedrock/plague-inc-new.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd0fec",
+"url": "http://mcpe.foxcode.org/working-plague-inc-inside-of-minecraft-bedrock/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/working-plague-inc-inside-of-minecraft-bedrock/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/working-plague-inc-inside-of-minecraft-bedrock/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fed",
+"url": "http://mcpe.foxcode.org/working-plague-inc-inside-of-minecraft-bedrock/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/working-plague-inc-inside-of-minecraft-bedrock/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/working-plague-inc-inside-of-minecraft-bedrock/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fee",
+"url": "http://mcpe.foxcode.org/working-plague-inc-inside-of-minecraft-bedrock/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/working-plague-inc-inside-of-minecraft-bedrock/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/working-plague-inc-inside-of-minecraft-bedrock/thumbnail/s02.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd0feb",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 2.9523809523809526,
+"count": 21
+},
+"review": {
+"count": 17
+},
+"download": {
+"count": 800,
+"ym202007": 800
+}
+},
+"createdAt": 1596168000273,
+"updatedAt": 1596168000273,
+"updated": 1596161885,
+"title": "Working Plague Inc. inside of Minecraft Bedrock",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 788
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f219973472a8c8f758731ec",
+"ref": {
+"title": "Santy Claws",
+"url": "https://mcpedl .com/diorite-burner-advanced/"
+},
+"text": "Hey! Thanks for clicking on here! I made this map for The Bow Tie Man but decided to publish it here! It consists of a Piston House with a Redstone Diorite Burner on the outside!\n\nThe main House has:\n\n• Toggleable Fire Place\n• Workbench Swapper\n• Hipster Door\n\nAnd the main Attraction, (The Diorite Burner) includes:\n\n• Full Explanation for the Redstone\n• Lava Disposal\n• Hopper Minecart “Roller Coaster” (With Loop de Loop)\n• Piston Feed Tapes\n\nAnd More!\n",
+"downloads": [
+{
+"_id": "5f259686367fa15527bd10df",
+"length": 96067,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/diorite-burner-advanced.mcworld",
+"md5": "f83b8c31b3e0dbb7f16c6aa84cb330fa",
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/diorite-burner-advanced.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259686367fa15527bd10e1",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/ts01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/ts01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/diorite-burner-advanced/thumbnail/ts01.jpg"
+},
+{
+"_id": "5f259686367fa15527bd10e2",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/ts02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/ts02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/diorite-burner-advanced/thumbnail/ts02.jpg"
+},
+{
+"_id": "5f259686367fa15527bd10e3",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/ts03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/ts03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/diorite-burner-advanced/thumbnail/ts03.jpg"
+},
+{
+"_id": "5f259686367fa15527bd10e4",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/ts04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/ts04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/diorite-burner-advanced/thumbnail/ts04.jpg"
+},
+{
+"_id": "5f259686367fa15527bd10e5",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/ts05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/ts05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/diorite-burner-advanced/thumbnail/ts05.jpg"
+},
+{
+"_id": "5f259686367fa15527bd10e6",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/ts06.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/ts06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/diorite-burner-advanced/thumbnail/ts06.jpg"
+},
+{
+"_id": "5f259686367fa15527bd10e7",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/ts07.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/ts07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/diorite-burner-advanced/thumbnail/ts07.jpg"
+},
+{
+"_id": "5f259686367fa15527bd10e8",
+"url": "http://mcpe.foxcode.org/diorite-burner-advanced/ts08.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/diorite-burner-advanced/ts08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/diorite-burner-advanced/thumbnail/ts08.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259686367fa15527bd10e0",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 2.35,
+"count": 60
+},
+"review": {
+"count": 55
+},
+"download": {
+"count": 6608,
+"ym202007": 6608
+}
+},
+"createdAt": 1596081636576,
+"updatedAt": 1596081636576,
+"updated": 1,
+"title": "Diorite Burner (Advanced)",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 0
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f219958c6916f58774e9920",
+"ref": {
+"title": "cherryheixt",
+"url": "https://mcpedl.com/no-mercy-parkour-ii-the-sequel/"
+},
+"text": "The map has 8 levels in total with a few surprises along the way. There is no guarantee that the first levels are the easiest, however.\n\nMay your parkour skills be tested or may you breeze through the levels with prowess and ease. The map may live up to its name or it may not.\nThe only way to find out is download it.\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd1028",
+"length": 218835,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/no-mercy-parkour-ii.mcworld",
+"md5": "cbbdcf7efc405817ec553dd6fec78d3b",
+"originUrl": "http://addons.mcpe.world/no-mercy-parkour-ii-the-sequel/no-mercy-parkour-ii.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd102a",
+"url": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/no-mercy-parkour-ii-the-sequel/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd102b",
+"url": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/no-mercy-parkour-ii-the-sequel/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd102c",
+"url": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/no-mercy-parkour-ii-the-sequel/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd102d",
+"url": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/no-mercy-parkour-ii-the-sequel/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/no-mercy-parkour-ii-the-sequel/thumbnail/s04.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd1029",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.888888888888889,
+"count": 9
+},
+"review": {
+"count": 7
+},
+"download": {
+"count": 5664,
+"ym202007": 5664
+}
+},
+"createdAt": 1596081600291,
+"updatedAt": 1596081600291,
+"updated": 1596037461,
+"title": "No Mercy Parkour II: The Sequel",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 709
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f203b3cc057e81048eb9b2e",
+"ref": {
+"title": "Pdtheyoutuber",
+"url": "https://mcpeaddons.app/astronaut-skin-pack"
+},
+"text": "This is a fun space skin pack for roleplaying as an astronaut! There are a total of 12 skins in the pack for you to enjoy. Have fun!\n\n# Installation\n\n• Download and install the skin pack\n• On the first screen, tap Profile.\n• Tap EDIT CHARACTER\n• Select the second tab\n• Tap OWNED\n• When you scroll down, you will see the skin pack you installed.\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be3114",
+"length": 20094,
+"title": "Skin Pack",
+"url": "http://mcpe.foxcode.org/astronaut-skin-pack/astronaut-skin-pack.mcpack",
+"md5": "b570ea064b2a605b77373b58331f7dab",
+"originUrl": "http://addons.mcpe.world/astronaut-skin-pack/astronaut-skin-pack.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be3116",
+"url": "http://mcpe.foxcode.org/astronaut-skin-pack/s01.jpg",
+"width": 720,
+"height": 480,
+"originUrl": "http://addons.mcpe.world/astronaut-skin-pack/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/astronaut-skin-pack/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3117",
+"url": "http://mcpe.foxcode.org/astronaut-skin-pack/s02.jpg",
+"width": 720,
+"height": 376,
+"originUrl": "http://addons.mcpe.world/astronaut-skin-pack/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/astronaut-skin-pack/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3118",
+"url": "http://mcpe.foxcode.org/astronaut-skin-pack/s03.jpg",
+"width": 720,
+"height": 919,
+"originUrl": "http://addons.mcpe.world/astronaut-skin-pack/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/astronaut-skin-pack/thumbnail/s03.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be3115",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.25,
+"count": 20
+},
+"review": {
+"count": 17
+},
+"download": {
+"count": 8430,
+"ym202007": 8430
+}
+},
+"createdAt": 1595995200405,
+"updatedAt": 1595995200405,
+"updated": 1595947830,
+"title": "Astronaut Skin Pack",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 492
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f203b7f3d4c4896bfd79197",
+"ref": {
+"title": "JesTheBest",
+"url": "https://mcpeaddons.app/tetris-dodge-by-jesthebest"
+},
+"text": "This map is so fun to play because there's a falling enemy and falling blocks from the sky also you can play this map with your friends players limit 30\nI make this map with command block \n• Command Block Feature\n• Auto repair the map\n• with no lag\n\nIf you like this map you should check out my youtube channel for more map like this\n\nYouTube Channel: https://youtube.com/channel/UCppoU59bShex4qQ1ajzfceg\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be310c",
+"length": 1214605,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/tetris-dodge-by-jesthebest.mcworld",
+"md5": "95a63368568763d9a5cd1cfb0c9a898d",
+"originUrl": "http://addons.mcpe.world/tetris-dodge-by-jesthebest/tetris-dodge-by-jesthebest.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be310e",
+"url": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/tetris-dodge-by-jesthebest/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be310f",
+"url": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/tetris-dodge-by-jesthebest/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3110",
+"url": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/s02.jpg",
+"width": 720,
+"height": 341,
+"originUrl": "http://addons.mcpe.world/tetris-dodge-by-jesthebest/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3111",
+"url": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/s03.jpg",
+"width": 720,
+"height": 341,
+"originUrl": "http://addons.mcpe.world/tetris-dodge-by-jesthebest/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3112",
+"url": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/s04.jpg",
+"width": 720,
+"height": 341,
+"originUrl": "http://addons.mcpe.world/tetris-dodge-by-jesthebest/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/tetris-dodge-by-jesthebest/thumbnail/s04.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be310d",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.375,
+"count": 16
+},
+"review": {
+"count": 15
+},
+"download": {
+"count": 6703,
+"ym202007": 6703
+}
+},
+"createdAt": 1595995200397,
+"updatedAt": 1595995200397,
+"updated": 1595947899,
+"title": "Tetris Dodge",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 762
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f203be3c057e81048eb9b2f",
+"ref": {
+"title": "RPS Studio",
+"url": "https://mcpedl.com/lucky-islands-map-2/"
+},
+"text": "You want some action because you will have it you can play with many friends on this map more than 10 friends can join you have fun having good or bad luck\n\nSubscribe to my youtube channel for more gameplays updates and much more here is the link\n\nGood Luck\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be30fd",
+"length": 27963585,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/lucky-islands-2.mcworld",
+"md5": "4b77f2a6ce83c171ded3a4ec77975c55",
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/lucky-islands-2.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be30ff",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3100",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3101",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3102",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3103",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3104",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s05.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3105",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s06.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s06.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3106",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s07.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s07.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3107",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s08.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s08.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3108",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s09.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s09.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s09.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3109",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s10.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s10.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s10.jpg"
+},
+{
+"_id": "5f259b34367fa15527be310a",
+"url": "http://mcpe.foxcode.org/lucky-islands-map-2/s11.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/lucky-islands-map-2/s11.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/lucky-islands-map-2/thumbnail/s11.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be30fe",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.8181818181818183,
+"count": 22
+},
+"review": {
+"count": 17
+},
+"download": {
+"count": 21349,
+"ym202007": 21349
+}
+},
+"createdAt": 1595995200391,
+"updatedAt": 1595995200391,
+"updated": 1595948021,
+"title": "Lucky Islands",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 2985
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f20da73c057e81048eb9b33",
+"ref": {
+"title": "Team Cubitos MC",
+"url": "https://www.cubitosmc.com/2020/07/player-model-npc-texturepack.html"
+},
+"text": "Are you bored of NPC models and skins? Well, with this resource pack the NPCs will obtain the model of a normal player and with new skins.\nThis resource pack does not affect in any way the interface or the behavior of the NPC, so they will keep their same function, only with new and fun models and skins.\n(Several of the skins added in this resource pack are shared by the minecraftskin.com community)\n\nHow to get NPCs?\n\nTo get an NPC you have to be creative and with the tricks activated and then you can execute any of these 2 commands in the chat:\n\n/give @p spawn_egg 1 51\n/summon npc ~ ~ ~\n\nLastly and as an extra, the NPCs now have animations when walking and light arm movements when they are static (The animation of walking can only be seen by executing this command in repeat mode: / execute @e [type = npc] ~ ~ ~ tp ~ ~ ~ 0.07)\n\nNote: You can replace the skins with the one you like, just go to the following route to replace the skins:\n/resource_packs/Resource_Palyer_Model_NPC/textures/entity/npc\n(The skin you replace must keep the same name as the default)\n\nCreator:\nTwitter: @AndiuberOficial\nTeam Cubitos MC\n\n# How to install\n\n• Download and install the resource pack\n• Activate the resource pack in your world settings\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be30f1",
+"length": 89094,
+"title": "Resource Pack",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/player-model-npc.mcpack",
+"md5": "828ba9b9e69b7d56155dedd15dd1ec1e",
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/player-model-npc.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be30f3",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be30f4",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f259b34367fa15527be30f5",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be30f6",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be30f7",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be30f8",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/s05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/s05.jpg"
+},
+{
+"_id": "5f259b34367fa15527be30f9",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/s06.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/s06.jpg"
+},
+{
+"_id": "5f259b34367fa15527be30fa",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/s07.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/s07.jpg"
+},
+{
+"_id": "5f259b34367fa15527be30fb",
+"url": "http://mcpe.foxcode.org/player-model-npc-texture-pack/s08.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/player-model-npc-texture-pack/s08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/player-model-npc-texture-pack/thumbnail/s08.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be30f2",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.8,
+"count": 10
+},
+"review": {
+"count": 9
+},
+"download": {
+"count": 1522,
+"ym202007": 1522
+}
+},
+"createdAt": 1595995200364,
+"updatedAt": 1595995200364,
+"updated": 1595988591,
+"title": "Player Model Npc",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 1534
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f20dadacfbbeaf3e011f9f3",
+"ref": {
+"title": "DSL3125",
+"url": "https://mcpedl.com/isla-nublar-island-only/"
+},
+"text": "This map includes a tropical island ready for you to build your very own dinosaur theme park or resort.\n\nPlease note that this is a fan-made creation, and is not associated with or endorsed by Universal Studios or any of its affiliates or properties. Please keep supporting the original IP holders and their content. Jurassic World is a trademark and copyright of Universal Studios and Amblin Entertainment, Inc.\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd1038",
+"length": 24448934,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/isla-nublar-island-only/isla-nublar-island.mcworld",
+"md5": "3f89113ccb2081d8599e07cfff033cfc",
+"originUrl": "http://addons.mcpe.world/isla-nublar-island-only/isla-nublar-island.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd103a",
+"url": "http://mcpe.foxcode.org/isla-nublar-island-only/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/isla-nublar-island-only/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/isla-nublar-island-only/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd103b",
+"url": "http://mcpe.foxcode.org/isla-nublar-island-only/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/isla-nublar-island-only/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/isla-nublar-island-only/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd103c",
+"url": "http://mcpe.foxcode.org/isla-nublar-island-only/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/isla-nublar-island-only/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/isla-nublar-island-only/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd103d",
+"url": "http://mcpe.foxcode.org/isla-nublar-island-only/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/isla-nublar-island-only/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/isla-nublar-island-only/thumbnail/s04.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd1039",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.166666666666667,
+"count": 6
+},
+"review": {
+"count": 5
+},
+"download": {
+"count": 705,
+"ym202007": 705
+}
+},
+"createdAt": 1595995200358,
+"updatedAt": 1595995200358,
+"updated": 1595988694,
+"title": "Isla Nublar (Island Only)",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 1722
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f20db02c057e81048eb9b34",
+"ref": {
+"title": "DanRobzProbz",
+"url": "https://youtu.be/5_LzuEUuvxI"
+},
+"text": "This map isn't going to be easy that's for sure.\nExperience life in the Nether, on a Skyblock island!\n\nHow exactly?!!\n\nYou start in a spawn room, with NOTHING!\n\nJust a portal...\n\nGather up resources with all the new Nether blocks & items, barter with Piglins to get even more unique things(even villager spawn eggs).\n\nRide a strider across the HUGE lava lake, to get to the surrounding Nether. But be careful as Creeper's also spawn in the Nether in this world!\n\nFind Nether fortresses, look for chests for even more goodies.\n\nThere are some new custom recipes too, such as...\nores,\nwater block,\ndirt,\ncobblestone,\nplus many many more!\n\nYour main goal...\nKILL A WITHER!!?\n\nBest of luck out there!\n",
+"downloads": [
+{
+"_id": "5f25966e367fa15527bd102f",
+"length": 5693724,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/nether-skyblock-drp/real-nether-skyblock-by-drp.mcworld",
+"md5": "516a3ceeb997f3ef23c574c0986e4fb6",
+"originUrl": "http://addons.mcpe.world/nether-skyblock-drp/real-nether-skyblock-by-drp.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f25966e367fa15527bd1031",
+"url": "http://mcpe.foxcode.org/nether-skyblock-drp/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/nether-skyblock-drp/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-skyblock-drp/thumbnail/s01.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1032",
+"url": "http://mcpe.foxcode.org/nether-skyblock-drp/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/nether-skyblock-drp/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-skyblock-drp/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1033",
+"url": "http://mcpe.foxcode.org/nether-skyblock-drp/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/nether-skyblock-drp/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-skyblock-drp/thumbnail/s02.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1034",
+"url": "http://mcpe.foxcode.org/nether-skyblock-drp/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/nether-skyblock-drp/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-skyblock-drp/thumbnail/s03.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1035",
+"url": "http://mcpe.foxcode.org/nether-skyblock-drp/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/nether-skyblock-drp/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-skyblock-drp/thumbnail/s04.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd1036",
+"url": "http://mcpe.foxcode.org/nether-skyblock-drp/s05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/nether-skyblock-drp/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/nether-skyblock-drp/thumbnail/s05.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f25966e367fa15527bd1030",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.8,
+"count": 5
+},
+"review": {
+"count": 5
+},
+"download": {
+"count": 1156,
+"ym202007": 1156
+}
+},
+"createdAt": 1595995200333,
+"updatedAt": 1595995200333,
+"updated": 1595988728,
+"title": "Nether Skyblock",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 2461
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1e61262011fa16e18ea565",
+"ref": {
+"title": "FlippNDip257",
+"url": "https://mcpeaddons.app/captive-minecraft-map"
+},
+"text": "Most of you should know what Captive Minecraft is but for those who don’t it is a game where you are stuck in a 1 x 1 and the only way to expand it is to complete an achievement. Once you complete every achievement you will then be set free from your prison.\n\nThere are a few structures you can find underground as well as 2 custom enemies.\n\nThere is an “Achievement Book” that you will get once you start the map that will help aid you in your captivity.\n\nThis map is multiplayer friendly so join and invite your friends!\n\nShout out to Teencord6206457 for helping me play test the map for multiplayer.\n\nIf there are any issues with the map or you have any suggestions please let me know. My discord is FlippNdipp#8771.\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be316d",
+"length": 6990421,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/captive-minecraft-map/captive-minecraft.mcworld",
+"md5": "6e34baef16905e791cacb254306ef708",
+"originUrl": "http://addons.mcpe.world/captive-minecraft-map/captive-minecraft.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be316f",
+"url": "http://mcpe.foxcode.org/captive-minecraft-map/s01.jpg",
+"width": 720,
+"height": 383,
+"originUrl": "http://addons.mcpe.world/captive-minecraft-map/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/captive-minecraft-map/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3170",
+"url": "http://mcpe.foxcode.org/captive-minecraft-map/s02.jpg",
+"width": 720,
+"height": 377,
+"originUrl": "http://addons.mcpe.world/captive-minecraft-map/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/captive-minecraft-map/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3171",
+"url": "http://mcpe.foxcode.org/captive-minecraft-map/s03.jpg",
+"width": 720,
+"height": 390,
+"originUrl": "http://addons.mcpe.world/captive-minecraft-map/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/captive-minecraft-map/thumbnail/s03.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be316e",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.333333333333333,
+"count": 21
+},
+"review": {
+"count": 18
+},
+"download": {
+"count": 6610,
+"ym202007": 6610
+}
+},
+"createdAt": 1595908800391,
+"updatedAt": 1595908800391,
+"updated": 1595826162,
+"title": "Captive Minecraft",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 331
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1edf530e90cbd0ff554519",
+"ref": {
+"title": "Lord_ISR",
+"url": "https://mcpedl.com/necromancy-addon/"
+},
+"text": "* To use this add-on, please enable \"Use Experimental Gameplay\" in world settings.\n\nHi everyone. With this addon you can fight with powerful enemies like necromancers and use spells to summon undead monsters.\n\n# Necromancer & Undead Monsters\n\nSo lets start with first necromancer:\n\nNormal Necromancer :\n\nThis is a normal necromancer and has ability to summon zombies and husks . Changed the time it summons mobs.\n\n• Necromancer summoning zombies.\n• There us a chance to be spawned during day.\n• Health:38\n• Experience reward:15\n• If killed drops two iron and Undead sword.\n\nMutated Necromancer :\n\nThis necromancer has the ability to summon Dead miners.\n\n• Health:80\n• Experience reward:20\n• If killed drops 2 diamonds.\n\nFrozen necromancer:\n\nIt can summon Strays, mad polarbears and frozen zombies\n\n• Health:95\n• Experience reward : 100\n\nFrozen zombie:\n\n• Health:100\n• Experience reward:30\n• Attack damage:15\n\nMad polar bear:\n\n• Health:60\n• Experience reward:100\n• Attack damage:8\n\nDead Miners:\n\n• Health :35\n• Experience reward:10\n• Attack damage :8\n• For spawning ing all of this mobs you can use their spawn eggs or use commands starting with : /summon necro:(names you see in game).\n\n# Runes\n\nRunes are magical items for crafting swords and magic books\n\nThe base rune is Inactive rune and you need it for crafting other runes. You can craft it like this:\n\n• Rune of light: can be crafted like this\n• Rune of darkness: can be crafted like this\n• Rune of fire: can be crafted like this\n• Rune of Ice: can be crafted like this\n• Rune of Nature:can be crafted like this\n\n# Weapons and spells\n\nYou can get them with this command\n/function Necromancy_Addon\n\n(All crafting recipes are shown in the screenshots below)\n\nThe skeleton sword:\n\n• This sword has 15 damage and 200 durability. This sword gives hunger effect if you use it.\n• This is how you can craft it. Or you can use /give @s necro:skeletonsword to get it.\n\nSword of fire:\n\n• Has 28 damage and 250 durability. Changes your health to 28\n\nSword of Ice:\n\n• Its like sword of fire but has different effects.\n• You can craft it like sword of fire but instead  of fire rune you have to use a ice rune.\n\nSword of black fire:\n\n• Has 48 damage and 300 durability and changes your health to 35.\n\nWhitefrost sword:\n\n• Has 48 damage and 300 durability and changes your health to 35\n\nSword of nature\n\n• Has 25 damage and changes your health to 30 and has 280 durability.\n\nSword of Life:\n\n• (Texture from terraria swords addon)\n• Has 55 damage and 320 durability and changes your health to 36\n\nSpells:\n\n• To use spells you need to craft spell books. There are two types of spell books. One for magic and one for summoning bosses. For crafting them you have to do these.\n\n1. Make Magical Paper\n2. Make Spell Book (for magic spells)\n3. Make Necromancy Book (for summoning bosses)\n\nThese are spells you can use:\n\n1: Thunderstorm :just place a spell book in the middle and a rune of light next to it\n2: spell of fireball: just place a spell book in the middle of crafting table and a fire rune next to it\n3: ice spell: just place a spell book in the middle of crafting table and a ice rune next to it.\n\nFor casting them just throw them like snowballs\n\nWarning:ice spell summons 5 snow golems each time you use them\nSo don’t throw lots of them\n\n# Bosses\n\nDeath Knight: (Mini boss)\n\nFor summoning it you need to craft it spell book: (Picture: Spell Book: Death Knight)\nThen place the item next to necromancy book: (Picture: Summon Death Knight)\n\nThen use the spell book like others(unlike other spell books you have to hold this spell book untill it summons the boss because it has 2 uses and player eats the first one and throws the second one so if you don’t do what I told player will eat the spell book\nThe mini boss has 1200 Health and 25 attack damage and has the ability to teleport and gives you blindness.\nIf killed drops 3 items\n\n• Death sword with 75 damages\n• Necromancy robe that you can wear it\n• Destruction book (place it in crafting table and gives you Destruction spell)\n\nPlease pay attention : you can use this addon for your videos and maps but please mention me too as person made this addon.\n\nRemember to use experimental mode.\n\nIf you found any bugs or wanted to suggest something please contact me on discord. This is my id : 722752104900591627\n\nThanks you for reading everything I have written. (I know its boring) Hope you enjoy the addon\nMade by : Lord_ISR\n\n# How to install\n\n• Download and install the McAddon\n• Activate both behavior and resource pack in your world settings\n• Enable Use Experimental Gameplay in the world setting\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be314a",
+"length": 182084,
+"title": "Resource Pack",
+"url": "http://mcpe.foxcode.org/necromancy-addon/necromancy-addon-version-1-2.mcaddon",
+"md5": "e877180d2e13890e0a08efb80c97a234",
+"originUrl": "http://addons.mcpe.world/necromancy-addon/necromancy-addon-version-1-2.mcaddon"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be314c",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s01.jpg",
+"width": 720,
+"height": 339,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be314d",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s02.jpg",
+"width": 720,
+"height": 472,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be314e",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s03.jpg",
+"width": 720,
+"height": 406,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be314f",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s04.jpg",
+"width": 720,
+"height": 436,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3150",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s05.jpg",
+"width": 720,
+"height": 399,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s05.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3151",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s06.jpg",
+"width": 720,
+"height": 485,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s06.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3152",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s07.jpg",
+"width": 720,
+"height": 469,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s07.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3153",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s08.jpg",
+"width": 720,
+"height": 529,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s08.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3154",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s09.jpg",
+"width": 720,
+"height": 481,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s09.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s09.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3155",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s10.jpg",
+"width": 720,
+"height": 715,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s10.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s10.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3156",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s11.jpg",
+"width": 720,
+"height": 614,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s11.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s11.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3157",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s12.jpg",
+"width": 720,
+"height": 579,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s12.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s12.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3158",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s13.jpg",
+"width": 720,
+"height": 567,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s13.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s13.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3159",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s14.jpg",
+"width": 720,
+"height": 518,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s14.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s14.jpg"
+},
+{
+"_id": "5f259b34367fa15527be315a",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s15.jpg",
+"width": 720,
+"height": 541,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s15.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s15.jpg"
+},
+{
+"_id": "5f259b34367fa15527be315b",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s16.jpg",
+"width": 720,
+"height": 279,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s16.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s16.jpg"
+},
+{
+"_id": "5f259b34367fa15527be315c",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s17.jpg",
+"width": 720,
+"height": 588,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s17.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s17.jpg"
+},
+{
+"_id": "5f259b34367fa15527be315d",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s18.jpg",
+"width": 720,
+"height": 407,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s18.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s18.jpg"
+},
+{
+"_id": "5f259b34367fa15527be315e",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s19.jpg",
+"width": 720,
+"height": 533,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s19.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s19.jpg"
+},
+{
+"_id": "5f259b34367fa15527be315f",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s20.jpg",
+"width": 720,
+"height": 552,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s20.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s20.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3160",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s21.jpg",
+"width": 720,
+"height": 685,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s21.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s21.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3161",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s22.jpg",
+"width": 720,
+"height": 656,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s22.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s22.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3162",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s23.jpg",
+"width": 720,
+"height": 550,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s23.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s23.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3163",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s24.jpg",
+"width": 720,
+"height": 620,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s24.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s24.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3164",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s25.jpg",
+"width": 720,
+"height": 563,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s25.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s25.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3165",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s26.jpg",
+"width": 720,
+"height": 453,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s26.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s26.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3166",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s27.jpg",
+"width": 720,
+"height": 592,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s27.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s27.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3167",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s28.jpg",
+"width": 720,
+"height": 663,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s28.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s28.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3168",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s29.jpg",
+"width": 720,
+"height": 660,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s29.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s29.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3169",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s30.jpg",
+"width": 720,
+"height": 651,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s30.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s30.jpg"
+},
+{
+"_id": "5f259b34367fa15527be316a",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s31.jpg",
+"width": 720,
+"height": 700,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s31.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s31.jpg"
+},
+{
+"_id": "5f259b34367fa15527be316b",
+"url": "http://mcpe.foxcode.org/necromancy-addon/s32.jpg",
+"width": 720,
+"height": 693,
+"originUrl": "http://addons.mcpe.world/necromancy-addon/s32.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/necromancy-addon/thumbnail/s32.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be314b",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.772727272727273,
+"count": 22
+},
+"review": {
+"count": 21
+},
+"download": {
+"count": 3881,
+"ym202007": 3881
+}
+},
+"createdAt": 1595908800380,
+"updatedAt": 1595908800380,
+"updated": 1595827081,
+"title": "Necromancy Addon",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 486
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1edf9f389e2fc28734473d",
+"ref": {
+"title": "Santy Claws",
+"url": "https://mcpedl.com/building-district-map/"
+},
+"text": "Hey! Thanks for clicking on here! This map consists of four “bases” in different styles! You can do whatever you want with them, Survival, Challenges, Roleplay, etc. Just have fun and be creative! This took us over 78 hours to make so hope you enjoy!\n\nMade by; SantyClaws G, Tomx Geinch and PiggyMkCool.\n\nFor the Screenshots I used the ESBE Shaders\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be313c",
+"length": 7393797,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/building-district-map/building-district.mcworld",
+"md5": "a2238f86a4bf90c055230e285d3e6322",
+"originUrl": "http://addons.mcpe.world/building-district-map/building-district.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be313e",
+"url": "http://mcpe.foxcode.org/building-district-map/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be313f",
+"url": "http://mcpe.foxcode.org/building-district-map/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3140",
+"url": "http://mcpe.foxcode.org/building-district-map/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3141",
+"url": "http://mcpe.foxcode.org/building-district-map/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3142",
+"url": "http://mcpe.foxcode.org/building-district-map/s05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s05.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3143",
+"url": "http://mcpe.foxcode.org/building-district-map/s06.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s06.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3144",
+"url": "http://mcpe.foxcode.org/building-district-map/s07.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s07.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3145",
+"url": "http://mcpe.foxcode.org/building-district-map/s08.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s08.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3146",
+"url": "http://mcpe.foxcode.org/building-district-map/s09.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s09.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s09.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3147",
+"url": "http://mcpe.foxcode.org/building-district-map/s10.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s10.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s10.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3148",
+"url": "http://mcpe.foxcode.org/building-district-map/s11.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/building-district-map/s11.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/building-district-map/thumbnail/s11.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be313d",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.5454545454545454,
+"count": 55
+},
+"review": {
+"count": 50
+},
+"download": {
+"count": 12092,
+"ym202007": 12092
+}
+},
+"createdAt": 1595908800376,
+"updatedAt": 1595908800376,
+"updated": 1595829577,
+"title": "Building District!",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 1066
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1edfbabbc953a5716c32f0",
+"ref": {
+"title": "zakverycool",
+"url": "https://mcpedl.com/the-cube-parkour-bedrock/"
+},
+"text": "A challenging, multiplayer OR single-player, PARKOUR map made for Bedrock with 24 increasingly difficult levels! The map also uses our own custom texture pack! Can you reach the top of The Cube?\n\nAbout The Cube\n\nThe Cube Parkour map has very simplistic and clean levels designed to test players’ skills and challenge even the best parkour masters!\n\nThere are 8 parkour stages per floor of The Cube, the very beginning is setup for low level players; jumping further through each floor, you’ll come across increasingly difficult stages.\n\nAny player can make as much progress towards the end as they can, and as fast as they can! Allowing for an intense race to reach the end if playing with friends!\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be3133",
+"length": 5891199,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/the-cube-parkour-1.mcworld",
+"md5": "e50bf7d483c656988716f0b59555f9fd",
+"originUrl": "http://addons.mcpe.world/the-cube-parkour-bedrock/the-cube-parkour-1.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be3135",
+"url": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/the-cube-parkour-bedrock/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3136",
+"url": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/the-cube-parkour-bedrock/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3137",
+"url": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/the-cube-parkour-bedrock/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3138",
+"url": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/the-cube-parkour-bedrock/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3139",
+"url": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/s05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/the-cube-parkour-bedrock/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/thumbnail/s05.jpg"
+},
+{
+"_id": "5f259b34367fa15527be313a",
+"url": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/s06.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/the-cube-parkour-bedrock/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/the-cube-parkour-bedrock/thumbnail/s06.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be3134",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.8421052631578947,
+"count": 19
+},
+"review": {
+"count": 19
+},
+"download": {
+"count": 7877,
+"ym202007": 7877
+}
+},
+"createdAt": 1595908800371,
+"updatedAt": 1595908800371,
+"updated": 1595831495,
+"title": "The Cube PARKOUR - Bedrock",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 496
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1f8a4f389e2fc287344741",
+"ref": {
+"title": "Jhony Tuggy/HotSpanish/Juaneitor 22",
+"url": "https://mcpedl.com/useful-plants-addon/"
+},
+"text": "You are looking for an addon of plants as similar as blocks, here this “Useful plants” adds new plants and “straw golem” hat will help you grow your plants. Read the description.\n\nPermission (the bottom picture) from the creators of the straw golem mod.\nJava creators:(Textures and models).\n• Commodore\n• Frenderman\n\nDianmica of my add ons, this addon has 2 versions, one that can be downloaded and another that will only be accessible to youtubers who upload minecraft, this version will not have anything new, only will have a different image and a description made for you with your name, this version is called “golforyou “, there will only be 10 places available. You have to meet these requirements to have this verson.(In the video)\nLook my video and suscribe: Johny Tuggy\n\nTo get everything from this addon, you’ll  have to find this new type of villager, he’ll exchange everything from the addon.\n\n# Straw Golem\n\nTo summon a golem of straw you need to make a structure, place a block of hay below and a pumpkin carved above, then place the soul of golem of straw above the gourd. This golem will cultivate and replant all minecraft crops (wheat, potato, beets, carrot, cane, pumpkin, melon), has only 2 lives and is afraid of monsters.\n\n# Grape seeds\n\nGrape seeds can only be planted on farmland, POTS and water lilies. They have 3 growth stages, each stage will last between 40 to 80 seconds. You can accelerate growth with bone powder, when the grape bush grows completely you can get the grapes in the same way as the sweet berries, just by clicking on the plant or you can destroy it. The straw golem will also grow the grapes for you.\n\n# Lemon tree\n\nThe lemon tree can only be planted in POTS and normal soil. It has 4 growth stages. Each stage lasts approximately 80 seconds, the tree will not grow completely if it is not at a temperature lower than 0.89 (in almost all parts of the game the temperature is lower than that,except in the desert and savannah). The lemons can be eaten, the straw golem will grow the lemons for you, has the same function as the sweet berries.\n\n# Experience seeds\n\nExperience seeds are a rare plant, can only be planted in farmland, POTS and waterlilies, has 4 growth stages, you can accelerate the growth time with a new bone powder, the magic bone powder is made with lapislazui and bonemeal, when the plant is fully developed will start to shine in different colors, to get the experience just click on the plant or destroy it.\n\n# Ender seeds\n\nEnder pearl seeds can only be planted in farmland,nenufares and POTS. It has 4 stages, each lasting about 1 minute. This plant will only grow if it is nighttime or the illumination is less than 0.49 (about the range of a torch). You can accelerate growth with a new bone meal, dark bone meal is made from bone meal and coal.\n\n# How to install\n\n• Download and install the McAddon\n• Activate both behavior and resource pack in your world settings\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be3121",
+"length": 145787,
+"title": "McAddon",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/usefulplants-byjuaneitor22.mcaddon",
+"md5": "fc8338abee9d47cb3606b918fc463269",
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/usefulplants-byjuaneitor22.mcaddon"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be3123",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3124",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3125",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s02.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3126",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s03.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3127",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s04.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3128",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s05.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s05.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3129",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s06.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s06.jpg"
+},
+{
+"_id": "5f259b34367fa15527be312a",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s07.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s07.jpg"
+},
+{
+"_id": "5f259b34367fa15527be312b",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s08.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s08.jpg"
+},
+{
+"_id": "5f259b34367fa15527be312c",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s09.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s09.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s09.jpg"
+},
+{
+"_id": "5f259b34367fa15527be312d",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s10.jpg",
+"width": 720,
+"height": 714,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s10.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s10.jpg"
+},
+{
+"_id": "5f259b34367fa15527be312e",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s11.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s11.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s11.jpg"
+},
+{
+"_id": "5f259b34367fa15527be312f",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s12.jpg",
+"width": 720,
+"height": 432,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s12.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s12.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3130",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s13.jpg",
+"width": 720,
+"height": 711,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s13.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s13.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3131",
+"url": "http://mcpe.foxcode.org/useful-plants-addon/s14.jpg",
+"width": 720,
+"height": 1146,
+"originUrl": "http://addons.mcpe.world/useful-plants-addon/s14.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/useful-plants-addon/thumbnail/s14.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be3122",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.5,
+"count": 8
+},
+"review": {
+"count": 6
+},
+"download": {
+"count": 1588,
+"ym202007": 1588
+}
+},
+"createdAt": 1595908800363,
+"updatedAt": 1595908800363,
+"updated": 1595902538,
+"title": "Useful Plants",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 2108
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1f8ba90e90cbd0ff55451c",
+"ref": {
+"title": "Gab_The_Crafter",
+"url": "https://mcpeaddons.app/terraced-cliff-house"
+},
+"text": "Welcome to the \"Terraced Cliff House\"\nThis is my most ambitious build to date! It's roughly 11,000 sq. ft. contemporary mansion sitting atop a terraced cliff. It overlooks sprawling forests of custom tree models with a river winding through. Next to the house is a private lake hidden from the road by a dormant volcano. The caldera of the volcano has flooded offering fantastic panoramic views of the house.\n\nThe house is only accessible via a private, gated tunnel through the far side of the volcano. There is an enormous water feature circling the entire house and an infinity pool at the rear. The main house features 5 bedrooms and 4.5 bathrooms, a home theater, a game room, a large dining room, a zen garden, a helipad, a glass-walled \"aquarium room\", a gym, a small library, and a wine cellar. There is also a full guest house situated over the garage featuring a kitchen, TV area, dining area, bedroom, and private full bathroom.\nBig thanks to  AzinineBuilds for this amazing project! Credits to him.\n\nTexture Pack Used: UTB Shader Used: SEUS\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be311a",
+"length": 41069803,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/terraced-cliff-house/terraced-cliff-house.mcworld",
+"md5": "7e186df977c0a4abcf299909ead09ab5",
+"originUrl": "http://addons.mcpe.world/terraced-cliff-house/terraced-cliff-house.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be311c",
+"url": "http://mcpe.foxcode.org/terraced-cliff-house/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/terraced-cliff-house/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/terraced-cliff-house/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be311d",
+"url": "http://mcpe.foxcode.org/terraced-cliff-house/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/terraced-cliff-house/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/terraced-cliff-house/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be311e",
+"url": "http://mcpe.foxcode.org/terraced-cliff-house/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/terraced-cliff-house/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/terraced-cliff-house/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be311f",
+"url": "http://mcpe.foxcode.org/terraced-cliff-house/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/terraced-cliff-house/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/terraced-cliff-house/thumbnail/s02.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be311b",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 3.8,
+"count": 10
+},
+"review": {
+"count": 7
+},
+"download": {
+"count": 2539,
+"ym202007": 2539
+}
+},
+"createdAt": 1595908800270,
+"updatedAt": 1595908800270,
+"updated": 1595902885,
+"title": "Terraced Cliff House",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 4182
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1d8ec4db3c6335d2c4763e",
+"ref": {
+"title": "Team Infinite Minds",
+"url": "https://teaminfiniteminds.com/cubo-edit-2-0-vrush/"
+},
+"text": "This texture Pack is for players who love PVP and color.\n\n# How to install\n\n• Download and install the resource pack\n• Activate the resource pack in your world settings\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be317e",
+"length": 20708930,
+"title": "Resource Pack",
+"url": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/cubo-edit-2-0-vrush.mcpack",
+"md5": "3b35f1dd7b96c3eb2368c1afb2a28ff9",
+"originUrl": "http://addons.mcpe.world/cubo-edit-2-0-vrush/cubo-edit-2-0-vrush.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be3180",
+"url": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/s03.jpg",
+"width": 720,
+"height": 339,
+"originUrl": "http://addons.mcpe.world/cubo-edit-2-0-vrush/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3181",
+"url": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/cubo-edit-2-0-vrush/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3182",
+"url": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/s04.jpg",
+"width": 720,
+"height": 339,
+"originUrl": "http://addons.mcpe.world/cubo-edit-2-0-vrush/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3183",
+"url": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/s01.jpg",
+"width": 720,
+"height": 339,
+"originUrl": "http://addons.mcpe.world/cubo-edit-2-0-vrush/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3184",
+"url": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/s02.jpg",
+"width": 720,
+"height": 339,
+"originUrl": "http://addons.mcpe.world/cubo-edit-2-0-vrush/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/cubo-edit-2-0-vrush/thumbnail/s02.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be317f",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.25,
+"count": 16
+},
+"review": {
+"count": 13
+},
+"download": {
+"count": 11145,
+"ym202007": 11145
+}
+},
+"createdAt": 1595822400245,
+"updatedAt": 1595822400245,
+"updated": 1595772576,
+"title": "Cubo Edit 2.0 vRush Texture Pack",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 1902
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1d8ee1db3c6335d2c4763f",
+"ref": {
+"title": "Team Cubitos MC",
+"url": "https://www.cubitosmc.com/2020/07/random-tp-bedrock-mapasurvival.html"
+},
+"text": "At last this amazing map for minecraft bedrock arrived [RandomTP] A map to play survival but the difference is that every 5 minutes you will be teleported to a totally random place on the map, where you will have to be quick to collect the most resources before the counter reaches [00:00]\n\nThe map is playable in multiplayer.\n\nCreator:\n• YouTube: TerraWorld6\n• Discord: TerraWorld6\n• TEAM CUBITOS MC\n",
+"downloads": [
+{
+"_id": "5f259b34367fa15527be3173",
+"length": 3024421,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/randomtp.mcworld",
+"md5": "4949fa255e90761dc80164c65de8de7e",
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/randomtp.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259b34367fa15527be3175",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/random-tp-bedrock-map/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3176",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/s02.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/random-tp-bedrock-map/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3177",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/s03.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/random-tp-bedrock-map/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3178",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/s04.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/random-tp-bedrock-map/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b34367fa15527be3179",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/s05.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/random-tp-bedrock-map/thumbnail/s05.jpg"
+},
+{
+"_id": "5f259b34367fa15527be317a",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/s06.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/random-tp-bedrock-map/thumbnail/s06.jpg"
+},
+{
+"_id": "5f259b34367fa15527be317b",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/s07.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/random-tp-bedrock-map/thumbnail/s07.jpg"
+},
+{
+"_id": "5f259b34367fa15527be317c",
+"url": "http://mcpe.foxcode.org/random-tp-bedrock-map/s08.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/random-tp-bedrock-map/s08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/random-tp-bedrock-map/thumbnail/s08.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b34367fa15527be3174",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.275862068965517,
+"count": 29
+},
+"review": {
+"count": 25
+},
+"download": {
+"count": 6976,
+"ym202007": 6976
+}
+},
+"createdAt": 1595822400239,
+"updatedAt": 1595822400239,
+"updated": 1595772644,
+"title": "Random Tp Bedrock",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 2279
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1c503982c9b3ea8d00e7b3",
+"ref": {
+"title": "Freddricc",
+"url": "https://mcpedl.com/punchable-fireballs-addon/"
+},
+"text": "Currently, you cannot spawn in a fireball, but with this addon, you are able to spawn fireballs and punch them around! You can punch fireballs around in survival aswell! I’ve always wanted this feature.\n\nThere are two ways to spawn in a fireball, the first option is using a command.\n\n/summon minecraft:fireball ~ ~5 ~\n\nThe second option is to throw a fire charge and it will spawn a fireball. This can be done in survival.\n\nCreated by Freddricc\n\n# How to install\n\n• Download and install the behavior pack\n• Activate the behavior pack in your world settings\n",
+"downloads": [
+{
+"_id": "5f259b31367fa15527be3071",
+"length": 3156,
+"title": "Behavior Pack",
+"url": "http://mcpe.foxcode.org/punchable-fireballs-addon/fireball-punchable.mcpack",
+"md5": "d316ef6f5ac58d10b3ad87125e5d03d7",
+"originUrl": "http://addons.mcpe.world/punchable-fireballs-addon/fireball-punchable.mcpack"
+}
+],
+"images": [
+{
+"_id": "5f259b31367fa15527be3073",
+"url": "http://mcpe.foxcode.org/punchable-fireballs-addon/s04.jpg",
+"width": 720,
+"height": 340,
+"originUrl": "http://addons.mcpe.world/punchable-fireballs-addon/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/punchable-fireballs-addon/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b31367fa15527be3074",
+"url": "http://mcpe.foxcode.org/punchable-fireballs-addon/s02.jpg",
+"width": 720,
+"height": 328,
+"originUrl": "http://addons.mcpe.world/punchable-fireballs-addon/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/punchable-fireballs-addon/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b31367fa15527be3075",
+"width": 720,
+"height": 540,
+"url": "http://mcpe.foxcode.org/punchable-fireballs-addon/s03.jpg",
+"originUrl": "http://addons.mcpe.world/punchable-fireballs-addon/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/punchable-fireballs-addon/thumbnail/s03.jpg"
+}
+],
+"type": "mcpack",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b31367fa15527be3072",
+"tag": "mcpack"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.5625,
+"count": 16
+},
+"review": {
+"count": 15
+},
+"download": {
+"count": 3143,
+"ym202007": 3143
+}
+},
+"createdAt": 1595736000459,
+"updatedAt": 1595736000459,
+"updated": 1595691060,
+"title": "Punchable Fireballs Addon",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 275
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+},
+{
+"id": "5f1c50eeac327f63f5f53547",
+"ref": {
+"title": "SkeleReaper789",
+"url": "https://mcpedl.com/custom-universal-park-mcpe-creation/"
+},
+"text": "Welcome to my custom version of universal with islands of adventure and universal studios combined into one park. There are plenty of fun attractions and rides! Have as much fun as you can and there will be more in the park as the world updates!\n\ncreated by SkeleReaper789\nTextures used: Realistic World Shadow Shader by C-G Gamer Play, Attraction minecart by Vernian LEMO\nBehaviors used: Attraction Minecart By Vernian LEMO, More Useful Armor Stand By Vernian LEMO,\n\nEvery ride is fully self-automatic and functional. There are great things with command blocks and I recommend you ride the amazing adventures of Spider-Man! With the new update, the FearFall tower was fixed and there are plans to make the Ghostbusters and Walking Dead attractions in the near future. Enjoy this Spider-Man Ride Update, it took me 4 days straight to build it and I hope you enjoy! (It’s GREAT).\n",
+"downloads": [
+{
+"_id": "5f259b31367fa15527be3066",
+"length": 10123335,
+"title": "McWorld",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/universal-park-v2.mcworld",
+"md5": "b30bff4e93400861e46e264beddf4cc9",
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/universal-park-v2.mcworld"
+}
+],
+"images": [
+{
+"_id": "5f259b31367fa15527be3068",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/s01.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/s01.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/thumbnail/s01.jpg"
+},
+{
+"_id": "5f259b31367fa15527be3069",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/s02.jpg",
+"width": 720,
+"height": 540,
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/s02.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/thumbnail/s02.jpg"
+},
+{
+"_id": "5f259b31367fa15527be306a",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/s03.jpg",
+"width": 720,
+"height": 540,
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/s03.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/thumbnail/s03.jpg"
+},
+{
+"_id": "5f259b31367fa15527be306b",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/s04.jpg",
+"width": 720,
+"height": 540,
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/s04.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/thumbnail/s04.jpg"
+},
+{
+"_id": "5f259b31367fa15527be306c",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/s05.jpg",
+"width": 720,
+"height": 540,
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/s05.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/thumbnail/s05.jpg"
+},
+{
+"_id": "5f259b31367fa15527be306d",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/s06.jpg",
+"width": 720,
+"height": 540,
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/s06.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/thumbnail/s06.jpg"
+},
+{
+"_id": "5f259b31367fa15527be306e",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/s07.jpg",
+"width": 720,
+"height": 540,
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/s07.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/thumbnail/s07.jpg"
+},
+{
+"_id": "5f259b31367fa15527be306f",
+"url": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/s08.jpg",
+"width": 720,
+"height": 540,
+"originUrl": "http://addons.mcpe.world/custom-universal-park-mcpe-creation/s08.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/custom-universal-park-mcpe-creation/thumbnail/s08.jpg"
+}
+],
+"type": "mcworld",
+"mcversion": {
+"tested": "1.16.10.2",
+"required": "1.16.10.2"
+},
+"tags": [
+{
+"_id": "5f259b31367fa15527be3067",
+"tag": "mcworld"
+}
+],
+"related": 0,
+"stat": {
+"rate": {
+"avg": 4.384615384615385,
+"count": 13
+},
+"review": {
+"count": 10
+},
+"download": {
+"count": 3979,
+"ym202007": 3979
+}
+},
+"createdAt": 1595736000433,
+"updatedAt": 1595736000433,
+"updated": 1595691240,
+"title": "Custom Universal Park",
+"completed": true,
+"ownStat": {
+"download": {
+"count": 307
+}
+},
+"thumbnailCompleted": true,
+"fxOffline": false,
+"fxSelected": false
+}
+]
