@@ -1,50 +1,99 @@
 [  
    {  
-   
-      "image":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Coco"
    },
    {  
      
-      "image":"http://velmm.com/images/bottom_navigationview/terminator_2.jpg",
+     "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Terminator 2: Judgment Day 3D"
    },
    {  
     
-      "image":"http://velmm.com/images/bottom_navigationview/dunkirk.jpg",
+    "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Dunkirk"
    },
    {  
       
-      "image":"http://velmm.com/images/bottom_navigationview/the_salesman.jpg",
+      "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"The Salesman"
    },
    {  
     
-      "image":"http://velmm.com/images/bottom_navigationview/lion.png",
+    "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Lion"
    },
    {  
      
-      "image":"http://velmm.com/images/bottom_navigationview/star_war.jpg",
+   "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Star Wars: The Last Jedi"
    },
    {  
-      "image":"http://velmm.com/images/bottom_navigationview/thor_ragnarok.jpg",
+     "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Thor: Ragnarok"
    },
    {  
     
-      "image":"http://velmm.com/images/bottom_navigationview/blade_runner_2049.jpg",
+     "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Blade Runner 2049"
    },
    {   
-      "image":"http://velmm.com/images/bottom_navigationview/borg_mcenroe.jpg",
+     "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Borg McEnroe"
    },
    {  
       
-      "image":"http://velmm.com/images/bottom_navigationview/wonder.jpg",
+     "imgaes":[
+      {  
+         "urls":"http://velmm.com/images/bottom_navigationview/coco.jpg",
+      }
+      
+      ],
       "title":"Wonder"
    }
 ]
