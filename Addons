@@ -312,6 +312,22 @@
 "height": 405,
 "originUrl": "http://addons.mcpe.world/console-designer-map/maxresdefault.jpg",
 "thumbnailUrl": "http://mcpe.foxcode.org/console-designer-map/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fd3",
+"url": "http://mcpe.foxcode.org/console-designer-map/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/console-designer-map/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/console-designer-map/thumbnail/maxresdefault.jpg"
+},
+{
+"_id": "5f25966e367fa15527bd0fd4",
+"url": "http://mcpe.foxcode.org/console-designer-map/maxresdefault.jpg",
+"width": 720,
+"height": 405,
+"originUrl": "http://addons.mcpe.world/console-designer-map/maxresdefault.jpg",
+"thumbnailUrl": "http://mcpe.foxcode.org/console-designer-map/thumbnail/maxresdefault.jpg"
 }
 ],
 "type": "mcworld",
