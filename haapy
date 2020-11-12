@@ -1,6 +1,6 @@
 [
 {
-"gif_beat": {
+"gif_beat": [
 {
 "urls": "https://i.pinimg.com/originals/7e/0b/6f/7e0b6f7d9f817728f045b6ed750e2851.gif"
 },
@@ -61,8 +61,8 @@
 {
 "urls": "https://i.pinimg.com/originals/70/03/73/700373de41835007f816f04177998ff5.gif"
 }
-},
-"gif_birthay": {
+],
+"gif_birthay": [
 {
 "urls": "https://img1.picmix.com/output/pic/normal/8/0/8/2/8322808_fbe49.gif"
 },
@@ -111,6 +111,6 @@
 {
 "urls": "https://www.funimada.com/assets/images/cards/big/bday-202.gif"
 }
-}
+]
 }
 ]
