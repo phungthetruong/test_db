@@ -1,6 +1,6 @@
 [
   {
-    "item_all": {
+    "item": {
       "gif_beat": [
         {
           "urls": "https://i.pinimg.com/originals/7e/0b/6f/7e0b6f7d9f817728f045b6ed750e2851.gif"
@@ -116,7 +116,7 @@
     }
   },
   {
-    "item_new": {
+    "item": {
       "gif_love": [
         {
           "urls": "https://i.pinimg.com/originals/7e/0b/6f/7e0b6f7d9f817728f045b6ed750e2851.gif"
@@ -376,7 +376,7 @@
     }
   },
   {
-    "item_hot": {
+    "item": {
       "gif_hot": [
         {
           "urls": "https://i.pinimg.com/originals/3a/96/c5/3a96c597da01f0e6928f494de5c2b78c.gif"
@@ -521,7 +521,7 @@
     }
   },
   {
-    "item_funny": {
+    "item": {
       "gif_only": [
         {
           "urls": "https://4.imimg.com/data4/OO/OO/GLADMIN-/images-pr-l-romantic_1-500x500.jpg"
