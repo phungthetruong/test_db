@@ -1,13 +1,13 @@
 [
 {
-"idapp_admob": "ca-app-pub-3940256099942544~334751171",
-"inter_admob": "ca-app-pub-3940256099942544/103317371",
-"native_admob": "ca-app-pub-3940256099942544/224769611",
-"banner_admob": "ca-app-pub-3940256099942544/630097811",
+"idapp_admob": "ca-app-pub-2080810392758235~6017923253",
+"inter_admob": "ca-app-pub-2080810392758235/8942597355",
+"native_admob": "ca-app-pub-3940256099942544/22476961",
+"banner_admob": "ca-app-pub-3940256099942544/63009781",
 "inter_fan": "159798912201955_1867951361689",
 "native_fan": "159798912201955_1867950695023",
 "native_fan2": "159798912201955_1867950695023",
 "banner_fan": "ca-app-pub-2596772557418203/7620209",
-"on_inter": "off"
+"on_inter": "on"
 }
 ]
