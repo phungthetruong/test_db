@@ -4,6 +4,6 @@
 "native_admob": "ca-app-pub-6983924630250871/1356429336",
 "banner_admob": "ca-app-pub-3940256099942544/63007111",
 "on_inter": "on",
-"on_inapp": "on"
+"on_inapp": "off"
 }
 ]
