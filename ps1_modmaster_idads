@@ -1,9 +1,9 @@
 [
 {
-"inter_admob": "ca-app-pub-6983924630250871/472857426",
-"native_admob": "ca-app-pub-6983924630250871/135649336",
-"banner_admob": "ca-app-pub-6983924630250871/239467769",
-"on_inter": "off",
+"inter_admob": "ca-app-pub-6983924630250871/47285726",
+"native_admob": "ca-app-pub-6983924630250871/13564336",
+"banner_admob": "ca-app-pub-6983924630250871/23946769",
+"on_inter": "on",
 "on_inapp": "on"
 }
 ]
