@@ -2,10 +2,10 @@
 {
 "open_admob": "ca-app-pub-3940256099942544/34198294",
 "inter_admob": "ca-app-pub-3940256099942544/1033173712",
-"native_admob": "ca-app-pub-3940256099942544/63009111",
+"native_admob": "ca-app-pub-3940256099942544/6300978111",
 "banner_admob": "ca-app-pub-3940256099942544/6300978111",
 "native_admob22": "ca-app-pub-3940256099942544/22476110",
-"idads_iron": "152494619",
+"idads_iron": "1524619",
 "on_inter": "off",
 "on_inapp": "off",
 "on_close": "off"
