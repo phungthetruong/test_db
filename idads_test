@@ -9,6 +9,6 @@
 "idads_iron": "1524619",
 "on_inter": "on",
 "on_inapp": "on",
-"on_close": "on"
+"on_close": "off"
 }
 ]
