@@ -1,11 +1,11 @@
 [
 {
 "open_admob": "ca-app-pub-3940256099942544/34198294",
-"inter_admob": "ca-app-pub-3940256099942544/10333712",
-"native_admob": "ca-app-pub-3940256099942544/63008111",
-"banner_admob": "ca-app-pub-3940256099942544/6300111",
-"native_admob22": "ca-app-pub-3940256099942544/22476910",
-"native_admob33": "ca-app-pub-3940256099942544/224110",
+"inter_admob": "ca-app-pub-9860623265957751/1368349305",
+"native_admob": "ca-app-pub-9860623265957751/6598826385",
+"banner_admob": "ca-app-pub-9860623265957751/6598826385",
+"native_admob22": "ca-app-pub-9860623265957751/6429104293",
+"native_admob33": "ca-app-pub-9860623265957751/6429104293",
 "idads_iron": "152419",
 "on_inter": "on",
 "on_inapp": "on",
