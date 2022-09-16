@@ -8,7 +8,7 @@
 "native_admob33": "ca-app-pub-9860623265957751/64291293",
 "idads_iron": "152419",
 "on_inter": "on",
-"on_inapp": "off",
+"on_inapp": "on",
 "on_close": "on"
 }
 ]
