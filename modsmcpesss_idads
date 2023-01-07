@@ -5,7 +5,7 @@
 "banner_admob": "ca-app-pub-6795849948143087/13918961",
 "native_admob22": "ca-app-pub-6795849948143087/2513323941",
 "idads_iron": "1386378b1",
-"on_inter": "on",
+"on_inter": "off",
 "on_inapp": "off",
 "on_close": "off"
 }
