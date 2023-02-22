@@ -1,6 +1,6 @@
 [
 {
-"mods_melon": [
+"tanks_melon": [
 {
 "preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/tankstechnics/6/1.jpg",
 "title": "GAZ Tiger - constructor",
@@ -141,7 +141,105 @@
 "resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/tankstechnics/22/tankkvone.zip"
 }
 ],
-"addons_melon": [
+"people_melon": [
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/f6/84/2ff68476-c0b5-f073-7df5-5bf1b7c18b75/c6305958-6821-4f0b-914c-ada716c80cbe_3.png/750x750bb.jpeg",
+"dowload": "24764",
+"title": "Mazda CX5",
+"star": "3"
+},
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/81/1c/77/811c771e-bfbd-2ffb-696f-bb5c7b42113e/5fcb3f7e-d3b6-4c05-b33c-57afe6b34044_3.png/643x0w.jpg",
+"dowload": "4364",
+"title": "Mazda CX5",
+"star": "2"
+}
+],
+"weapons_melon": [
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/f6/84/2ff68476-c0b5-f073-7df5-5bf1b7c18b75/c6305958-6821-4f0b-914c-ada716c80cbe_3.png/750x750bb.jpeg",
+"dowload": "24764",
+"title": "Mazda CX5",
+"star": "3"
+},
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/81/1c/77/811c771e-bfbd-2ffb-696f-bb5c7b42113e/5fcb3f7e-d3b6-4c05-b33c-57afe6b34044_3.png/643x0w.jpg",
+"dowload": "4364",
+"title": "Mazda CX5",
+"star": "2"
+}
+],
+"airplanes_melon": [
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/f6/84/2ff68476-c0b5-f073-7df5-5bf1b7c18b75/c6305958-6821-4f0b-914c-ada716c80cbe_3.png/750x750bb.jpeg",
+"dowload": "24764",
+"title": "Mazda CX5",
+"star": "3"
+},
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/81/1c/77/811c771e-bfbd-2ffb-696f-bb5c7b42113e/5fcb3f7e-d3b6-4c05-b33c-57afe6b34044_3.png/643x0w.jpg",
+"dowload": "4364",
+"title": "Mazda CX5",
+"star": "2"
+}
+],
+"animals_melon": [
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/f6/84/2ff68476-c0b5-f073-7df5-5bf1b7c18b75/c6305958-6821-4f0b-914c-ada716c80cbe_3.png/750x750bb.jpeg",
+"dowload": "24764",
+"title": "Mazda CX5",
+"star": "3"
+},
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/81/1c/77/811c771e-bfbd-2ffb-696f-bb5c7b42113e/5fcb3f7e-d3b6-4c05-b33c-57afe6b34044_3.png/643x0w.jpg",
+"dowload": "4364",
+"title": "Mazda CX5",
+"star": "2"
+}
+],
+"cars_melon": [
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/f6/84/2ff68476-c0b5-f073-7df5-5bf1b7c18b75/c6305958-6821-4f0b-914c-ada716c80cbe_3.png/750x750bb.jpeg",
+"dowload": "24764",
+"title": "Mazda CX5",
+"star": "3"
+},
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/81/1c/77/811c771e-bfbd-2ffb-696f-bb5c7b42113e/5fcb3f7e-d3b6-4c05-b33c-57afe6b34044_3.png/643x0w.jpg",
+"dowload": "4364",
+"title": "Mazda CX5",
+"star": "2"
+}
+],
+"buildings_melon": [
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/f6/84/2ff68476-c0b5-f073-7df5-5bf1b7c18b75/c6305958-6821-4f0b-914c-ada716c80cbe_3.png/750x750bb.jpeg",
+"dowload": "24764",
+"title": "Mazda CX5",
+"star": "3"
+},
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/81/1c/77/811c771e-bfbd-2ffb-696f-bb5c7b42113e/5fcb3f7e-d3b6-4c05-b33c-57afe6b34044_3.png/643x0w.jpg",
+"dowload": "4364",
+"title": "Mazda CX5",
+"star": "2"
+}
+],
+"furniture_melon": [
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/f6/84/2ff68476-c0b5-f073-7df5-5bf1b7c18b75/c6305958-6821-4f0b-914c-ada716c80cbe_3.png/750x750bb.jpeg",
+"dowload": "24764",
+"title": "Mazda CX5",
+"star": "3"
+},
+{
+"urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/81/1c/77/811c771e-bfbd-2ffb-696f-bb5c7b42113e/5fcb3f7e-d3b6-4c05-b33c-57afe6b34044_3.png/643x0w.jpg",
+"dowload": "4364",
+"title": "Mazda CX5",
+"star": "2"
+}
+],
+"sport_melon": [
 {
 "urls": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/f6/84/2ff68476-c0b5-f073-7df5-5bf1b7c18b75/c6305958-6821-4f0b-914c-ada716c80cbe_3.png/750x750bb.jpeg",
 "dowload": "24764",
