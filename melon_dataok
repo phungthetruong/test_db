@@ -1,6 +1,757 @@
 [
 {
-"items": [
+"tanks_melon": [
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/1.jpg",
+"title": "Barbell",
+"description": "Adds a sports equipment in the form of a barbell. It is very heavy and, if used incorrectly, can destroy a person.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/barbelll.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/3/1.jpg",
+"title": "Boxing mod",
+"description": "The mod will add a few things related to the theme of boxing. This includes:\n\nPunching bag;\nGloves;\nBoxing ring.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/3/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/3/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/3/boxingomd.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/5/1.jpg",
+"title": "Basketball and hoop",
+"description": "The mod adds basketball paraphernalia to the game, namely the ball and the ring.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/5/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/5/baskethop.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/7/1.jpg",
+"title": "Ring mod",
+"description": "Используйте ринг для создания видосов или картинок на тему бокса или других единоборств в Мелон Плейграунд.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/7/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/7/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/7/ringgmod.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/1/1.jpg",
+"title": "Tiny Furniture",
+"description": "Someone is already familiar with this mod, it has been updated and received version 4.0.\n\nFixed bugs in textures\nPlaced all items in separate categories (Kitchen/Bathroom/Bedroom)\nMoved Room's to the \"Building\" tab\nIn the pack:\n\nBathroom\nWhite Nightstand\nKettle\nChair\nCoffee table\nFridge\nBed\nKitchen Cabinet\nMacBook (Notebook)\nMicrowave\nMini wardrobe\nPlate\nRadio\nSink\nRoom\nCupboard\nwhite wardrobe\nBig wardrobe\nWashing machine\nTable\nBedside table\nTelevision\nToilet\nBathroom\nWardrobe with seat",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/1/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/1/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/1/tinyfurnitur.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/2/1.jpg",
+"title": "Bar theme pack",
+"description": "Items from the mod can be used to create a bar or bar environment. The package contains:\n\nTable;\nChair with backrest (Glow available);\nChair without a back (There is a Glow);\nMug with a drink (There is a Glow).\nThe circle needs to be enlarged.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/2/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/2/bartheme.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/3/1.jpg",
+"title": "Desk lamp",
+"description": "A small pack of various lamps for the table. The package contains:\n\nRed\nBlue\nBlack\nGreen\nAll have a glow texture.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/3/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/3/TableLamp.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/4/1.jpg",
+"title": "Big pack of props",
+"description": "Big pack for various items. A total of 34 add-ons for different scenarios.\n\nWhat is:\n\nCardboard box\nMailbox\nBench\nLantern st.\nSuitcase\nCone\nTrash can\nCactus\nwet floor sign\nSurveillance Camera\nFlower\nWatch\nshopping cart\nFlash drive\nUmbrella\nTraffic light\nBooks\nExit sign\nStop sign\nGame arcade machine\nPainting\nold pc\nCooler\niron locker\nPot\nDrill\nsun lounger\nComputer (Monitor, keyboard, system unit, mouse)\nBroom\nLog\nCandle",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/4/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/4/Largepackprops.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/5/1.jpg",
+"title": "Boxes from FNAF2",
+"description": "A small pack of boxes from a familiar game. In the pack:\n\nwhite box\npurple box\nlettuce box\nPuppet Box",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/5/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/5/fnafbox.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/6/1.jpg",
+"title": "Decorations for street and house",
+"description": "The pack contains 12 decor items with which you can decorate the living space and the street. Suitable for any scenario, especially on the theme of rest in the village with my grandmother.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/6/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/6/moddecoration.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/7/1.jpg",
+"title": "Pack of school items",
+"description": "Mod adds a large number of different items related to the school.\n\nIn the pack:\n\nDesk with a chair;\nTextbooks on society, algebra and a random book;\nMarker board with markers (they can be folded into the hole in the board);\nChalk board and chalk;\nPencil case with pen and pencil;\nThe ruler is exactly 1 game meter;\nSmall ruler for 30 game cm;\nDiary, side and front views.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/7/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/7/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/7/packitemschool.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/9/1.jpg",
+"title": "Decorative basket",
+"description": "Adds a basket (you can't put anything in it), it can burn, and floats in water.\n\nWorks as a decor, can work in different scenarios.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/9/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/9/WovenBasket.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/10/1.jpg",
+"title": "Bathroom items",
+"description": "This set includes:\n\nShower\nToilet\nWashbasin-bedside table\nToothbrush\nShampoo\nBathroom\nSoap",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/10/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/10/YourBathroom.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/11/1.jpg",
+"title": "Shelves",
+"description": "The mod will add shelves that are used as decor in your scenarios. They can be pierced with knives or swords.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/11/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/11/shelfes.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/12/1.jpg",
+"title": "Kitchen pack",
+"description": "There are various mods that are suitable for the kitchen utensils section. There are also several products. In total there are 7 items in the pack:\n\nSalt;\nSugar;\nJuice;\nPlate;\nKitchen rack;\nFrying pan.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/12/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/12/kitchenpack.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/13/1.jpg",
+"title": "BATHROOM MOD",
+"description": "The mod will add 14 items that you see every day in your bathroom and toilet. With this mod, you can create a fun script for Melon and for recording your videos.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/13/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/13/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/13/BATHROOMmod.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/14/1.jpg",
+"title": "Bunk bed",
+"description": "Maud add a bed in two floors. Also under the first bed visually there are additional drawers. Perfect for arranging a room in the game.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/14/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/14/mybedbunk.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/15/1.jpg",
+"title": "Computer desk and PC",
+"description": "Mod adds 3 items using which you get a place under the computer. In the mod:\n\nTable;\nPC itself;\nMonitor.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/15/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/15/pcdesk.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/16/1.jpg",
+"title": "Doors",
+"description": "Three doors: for the bathroom, closed and open. Good for building houses or decorating apartments in the game.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/16/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/16/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/16/Doormod.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/17/1.jpg",
+"title": "Gamer mod",
+"description": "The mod contains five gaming items with which you can equip a gaming place in Melon Playground. There is:\n\nJoystick PS4;\nThe console itself;\nA computer;\nKeyboard;\nMonitor.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/17/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/17/gamermodd.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/20/1.jpg",
+"title": "Bed",
+"description": "The mod will add an excellent bed on which you can put a person to sleep. Use as additional furniture when arranging a house or apartment.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/20/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/20/beedds.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/21/1.jpg",
+"title": "Household appliances and some furniture",
+"description": "The mod contains 21 items, most of which are various furniture and accessories, a lot of household appliances necessary for furnishing a house or apartment.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/21/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/21/housefurnit.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/22/1.jpg",
+"title": "Items to create an office",
+"description": "With this mod, you can equip your office room. The mod contains 8 items.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/22/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/22/officeitems.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/23/1.jpg",
+"title": "Pack of home and office furniture",
+"description": "A large pack for furniture and various items that are suitable for decorating a house, apartment and office. There is everything you need for a good life of your game heroes.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/23/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/23/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/23/packhomfurnit.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/24/1.jpg",
+"title": "Survival V5",
+"description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/24/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/24/survivpl.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/25/1.jpg",
+"title": "Items for video recording",
+"description": "The Movie Production mod contains the items needed to create TV shows or short cutscenes. The kit includes a chroma key, microphones, a video camera and more.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/25/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/25/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/25/videorecord.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/26/1.jpg",
+"title": "Room furniture mod",
+"description": "The mod includes several pieces of furniture that will allow you to furnish the room.\n\nTelevision;\nTV table;\nArmchair;\nShelf for books;\nColumn;\nPalm tree painting.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/26/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/26/roomfurnitur.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/1/1.jpg",
+"title": "Grocery store",
+"description": "Pak includes:\n\nPrice tags: Weights, tea, rubber ring, kettle, plates, mugs, pumpkins, watermelon, apples and corn\nBasket and trolley in which you can put items\nCash register\nScales that can be increased at will with resize",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/1/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/1/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/1/shop.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/6/1.jpg",
+"title": "Multi-storey building",
+"description": "Includes three items.\n\nInstallation recommendation:\n\nLast floor - 1 piece\nMiddle floor - as much as you like\nFirst floor - 1 pc.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/6/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/6/Housemult.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/8/1.jpg",
+"title": "Two-storey house",
+"description": "Adds a large two-story house to accommodate Melon residents. It is possible to change the size using \"Resize\".",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/8/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/8/House.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/9/1.jpg",
+"title": "Pack of different blocks",
+"description": "A large mod pack of different blocks to create cool scenarios in Melon. There are 16 items in total.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/9/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/9/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/9/blockdiffer.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/10/1.jpg",
+"title": "Cannon turret",
+"description": "Adds a structure in the form of a turret. Suitable for a roadblock or a military scenario theme.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/10/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/10/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/10/cannonturr.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/11/1.jpg",
+"title": "Military things",
+"description": "Create a real military corner with control systems using this mod. The pack contains furniture and weapons. There are 13 items in total.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/11/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/11/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/11/militarything.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/12/1.jpg",
+"title": "Grave stone",
+"description": "Adds a tombstone. There was already a similar mod, this one is its remake. Maybe someone will come in handy.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/12/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/12/grave.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/13/1.jpg",
+"title": "Decorative ventilation",
+"description": "You can use it for decoration. So that the character does not hit his head on the ventilation, click on Enable Collision.\n\nA screenshot of the vent burning with a watermelon is just a screenshot, it doesn't work in the mod unless the vent itself is set on fire.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/13/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/13/decorativeventilat.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/14/1.jpg",
+"title": "Decorative pipe 2",
+"description": "Adds a decorative pipe that can be combined with similar modifications from the plumbing and construction section.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/14/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/14/tubepipe2.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/15/1.jpg",
+"title": "Blocks from Minecraft",
+"description": "The mod will add 9 new items familiar from the game Minecraft. These are the following blocks:\n\nWood;\nAxe;\nOak planks;\nWooden plank;\nBrick;\nPumpkin;\nWatermelon;\nBarrel.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/15/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/15/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/15/blocksminecraft.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/16/1.jpg",
+"title": "Pipeline pipes",
+"description": "The mod adds 5 items with which you can create requirements of different sizes and positions. To fasten, use a pause and then fix with ropes.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/16/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/16/pipelinepipe.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/17/1.jpg",
+"title": "Neon blocks",
+"description": "The mod adds 6 new neon blocks of different colors. Excellent materials for building an entertainment club or bar.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/17/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/17/Neonss.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/18/1.jpg",
+"title": "Bunker with additional things",
+"description": "Mod for the bunker, and many other things! It is able to decorate your game by introducing more approximate things into it, for the theme of war.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/18/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/18/bunkergd.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/19/1.jpg",
+"title": "Fort - closed fortification with cannons",
+"description": "A fort is a stand-alone fortification with several cannons to protect the game lines. In the game, it cannot shoot (yet), but it will perfectly decorate the military map.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/19/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/19/fortcannon.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/20/1.jpg",
+"title": "Pack of blocks",
+"description": "The mod adds a pack of blocks that will greatly help in the construction of various objects and maps.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/20/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/20/Blockspack.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/21/1.jpg",
+"title": "Two-storey house with three rooms",
+"description": "The mod will add a small two-story house with three rooms. Initially, it is smaller than the game characters themselves, so change the size of the house in the settings (photo below).",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/21/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/21/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/21/twohouse.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/22/1.jpg",
+"title": "Big house",
+"description": "The mod will add a large house size, which can be changed with the \"resize\" settings.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/22/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/22/bighouse.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/23/1.jpg",
+"title": "Laboratory",
+"description": "Experiment with people, do various studies using the liquid from the pack, diversify the gameplay with the laboratory mod.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/23/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/23/laboratorymood.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/24/1.jpg",
+"title": "Headstones",
+"description": "The mod adds elements of the grave using which you can make a creepy map.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/24/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/24/headstonee.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/25/1.jpg",
+"title": "Bedroom",
+"description": "The mod contains 10 items related to the bedroom.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/25/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/25/Bedroomn.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/26/1.jpg",
+"title": "School building",
+"description": "Add a school building to the game and use other mods to decorate the area around the building. The mod goes great with the characters from the animated series South Park.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/26/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/26/schoolkl.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/27/1.jpg",
+"title": "Five-storey building",
+"description": "A five-story house with dynamic floors where you can install furniture and interior items. Great building to create a small town in the melon playground.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/27/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/27/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/27/fivestorehouse.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/28/1.jpg",
+"title": "Street lights (lighting)",
+"description": "The street lights are blue in color and can light up when heated. An excellent lighting mod that will decorate the territory of the building in the form of a country house.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/28/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/28/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/28/streetlight.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/29/1.jpg",
+"title": "Moat",
+"description": "The mod will add a structure in the form of a moat or something similar, where there is water. The water here is visual and does not give a real effect if it were real.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/29/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/29/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/29/watermoat.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/31/1.jpg",
+"title": "Pack of home and office furniture",
+"description": "A large pack for furniture and various items that are suitable for decorating a house, apartment and office. There is everything you need for a good life of your game heroes.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/31/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/31/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/31/mebel.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/32/1.jpg",
+"title": "Pack for many items",
+"description": "Introduces the 2nd beta version of the mega pack of items from Minecraft for Melon. There are 72 add-ons in total, of which it is not recommended to take a block called “SFFONADA” during construction, because. it is very large and can destroy your starting building.\n\nThe pack has almost all the blocks, beams, interior items, torches, food, lane heroes and much more.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/32/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/32/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/32/beta.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/33/1.jpg",
+"title": "Survival V5",
+"description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/33/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/33/survival.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/34/1.jpg",
+"title": "Pack of Minecraft blocks",
+"description": "A large mod pack on the theme of the Minecraft game, which will add a lot of blocks, food, torches and other interesting items to Melon with which you can make a cool map. In total, there are 45 items in the pack for today.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/34/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/34/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/34/betapack.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/36/1.jpg",
+"title": "Statue of a soldier with a rifle",
+"description": "Use the statue of a soldier to recreate a war-themed map or honor the memory of military personnel involved in combat conflicts.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/36/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/36/statuesoldier.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/37/1.jpg",
+"title": "Items for video recording",
+"description": "The Movie Production mod contains the items needed to create TV shows or short cutscenes. The kit includes a chroma key, microphones, a video camera and more.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/37/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/37/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/37/recordingvideo.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/38/1.jpg",
+"title": "Tree without leaves",
+"description": "The tree mod is a small leafless tree, more suitable for decorating horror-themed maps.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/38/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/38/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/38/woodwleaves.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/39/1.jpg",
+"title": "Monument to the victory over the virus",
+"description": "The monument in the form of a soldier was dedicated to the victory over an unknown virus. Perfectly suitable as an interior map of a military theme.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/39/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/39/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/39/monumentvirusvict.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/8/1.jpg",
+"title": "Van",
+"description": "Adds a van in which you can plant a watermelon, load it with various cargoes and send it to trade in another country.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/8/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/8/vaan.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/9/1.jpg",
+"title": "GAZ Tiger - constructor",
+"description": "Using this mod you have to assemble the Tiger from the constructor. The pack contains:\n\nBasis GAZ Tiger\nWheel\nKenguryatnik\nSeat\nSpare wheel\nIt can be used just like an armored car and an SUV!\n\nPeculiarities:\n\nFlat hitboxes.\nNothing needs to be increased.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/9/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/9/gaztiger.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/10/1.jpg",
+"title": "Police pack",
+"description": "Pack on a police theme with a helicopter, pistol, police and special vehicles.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/10/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/10/policee.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/12/1.jpg",
+"title": "Katyusha",
+"description": "It adds the Soviet multiple launch rocket system - Katyusha. The author advises to use \"resize\".",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/12/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/12/Katyushaaa.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/15/1.jpg",
+"title": "Truck with a trailer",
+"description": "The mod adds a truck with trailers in which you can load anything you want. The truck comes without wheels, you will need to install them yourself.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/15/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/15/trucktrailer.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/16/1.jpg",
+"title": "Big Russian mod 6!",
+"description": "6 version of the Russian mod, which was replenished with new items, cars and other additions with which you can create a cool Russian location.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/16/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/16/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/16/rusbeta.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/17/1.jpg",
+"title": "Pack of cars",
+"description": "The mod will add 10 different cars and a bonus weapon (SCAR) to Melon Playground. Cars of different classes and purposes, you can fill a pickup truck with pumpkins and crash into a wall or create a racing-themed map.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/17/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/17/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/17/packcars.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/18/1.jpg",
+"title": "Survival V5 - 42 items",
+"description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/18/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/18/survivitem.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/19/1.jpg",
+"title": "Vaz 2106 - eggplant",
+"description": "The mod adds the Soviet six (VAZ 2106) in the cool color \"Eggplant\". After installation, look for it in the section with swords.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/19/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/19/vaz2106.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/20/1.jpg",
+"title": "Pixel Car Racing - racing cars",
+"description": "The famous Soviet AKS-74 assault rifle with a folding iron stock.\n\nPeculiarities:\n\nYou can take it in hand.\nFlat hitboxes.\nDoesn't shoot.\nGlow only one.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/20/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/20/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/20/pixcarmod.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/21/1.jpg",
+"title": "Russian V5 - Russian mod",
+"description": "The Russian V5 mod contains a lot of things that are related to Russia. There is the Russian president, UAZ and Russian cars, a bottle of fire water, Navalny, grandmothers, herring, coins and more. There are 52 additions in total.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/21/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/21/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/21/russbetat.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/23/1.jpg",
+"title": "Mod for 3 civilians and 1 police car",
+"description": "Archive with 4 cars. One of them is a policeman, the rest look like racing ones.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/23/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/23/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/23/modcarrra.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/1/1.jpg",
+"title": "Megalodon",
+"description": "Adds a large shark - megalodon.\n\nThe mod has two parts:\n\nBody;\nJaw.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/1/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/1/megalooddon.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/2/1.jpg",
+"title": "Dinosaur skeleton",
+"description": "The Dinosaur Skeleton mod is similar to the Tyrannosaurus Rex. Perfect for any survival scenario or setting up a Jurassic World scene.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/2/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/2/dinosaurskelet.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/3/1.jpg",
+"title": "Cornobul - mutants, weapons, things",
+"description": "Cornobul – это мод включающий в себя 26 различных вещей, оружия и мутантов. Сделан на тему «Чернобыля».",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/3/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/3/cernoobyll.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/5/1.jpg",
+"title": "SCP mod - monsters and anomaly",
+"description": "The topic of scp in games has always been interesting for its anomalous additions. This pack is dedicated to scp and contains 14 additions to Melon.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/5/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/5/scppmod.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/6/1.jpg",
+"title": "Undersea world",
+"description": "Mod on the theme of the marine underwater world with sharks, a protective capsule for a diver and underwater mines.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/6/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/6/underseaworld.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/8/1.jpg",
+"title": "Cat statue",
+"description": "Every home should have a cat! Use this cat mod when decorating your home.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/8/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/8/catstat.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/5/1.jpg",
+"title": "Plastic planes",
+"description": "A small package for airplanes. They are the same size, but with different colors, there is:\n\nWhite\nBlue\nViolet\nRed\nGreen\nOrange\nYellow\nGrey\nPeculiarities:\n\nEverything can be taken\nLots of different colors",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/5/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/5/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/5/plasticairplane.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/6/1.jpg",
+"title": "Mi-28N (Night Hunter)",
+"description": "The helicopter will be a great addition to the modern T-90 tank.\n\nHas desert camouflage",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/6/1.jpg",
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/6/2.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/6/mi28h.zip"
+},
+{
+"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/10/1.jpg",
+"title": "Simple helicopter",
+"description": "The mod adds a regular transport helicopter, which is used for rescue operations and the transport of passengers.",
+"images": [
+"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/10/1.jpg"
+],
+"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/10/helicopterr.zip"
+},
 {
 "preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/tankstechnics/6/1.jpg",
 "title": "GAZ Tiger - constructor",
@@ -141,11 +892,7 @@
 "resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/tankstechnics/22/tankkvone.zip"
 }
 ],
-"category": "tanks",
-"rewardCount": 1
-},
-{
-"items": [
+"people_melon": [
 {
 "preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/peoplecharacters/1/1.jpg",
 "title": "NPC Standoff 2",
@@ -677,11 +1424,7 @@
 "resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/peoplecharacters/66/brawlmemhero.zip"
 }
 ],
-"category": "people and characters",
-"rewardCount": 1
-},
-{
-"items": [
+"weapons_melon": [
 {
 "preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/weapons/1/1.jpg",
 "title": "AKs-74",
@@ -1144,795 +1887,6 @@
 ],
 "resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/weapons/54/TerrariaMelee.zip"
 }
-],
-"category": "weapons",
-"rewardCount": 1
-},
-{
-"items": [
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/5/1.jpg",
-"title": "Plastic planes",
-"description": "A small package for airplanes. They are the same size, but with different colors, there is:\n\nWhite\nBlue\nViolet\nRed\nGreen\nOrange\nYellow\nGrey\nPeculiarities:\n\nEverything can be taken\nLots of different colors",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/5/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/5/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/5/plasticairplane.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/6/1.jpg",
-"title": "Mi-28N (Night Hunter)",
-"description": "The helicopter will be a great addition to the modern T-90 tank.\n\nHas desert camouflage",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/6/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/6/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/6/mi28h.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/10/1.jpg",
-"title": "Simple helicopter",
-"description": "The mod adds a regular transport helicopter, which is used for rescue operations and the transport of passengers.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/10/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/airplanes/10/helicopterr.zip"
-}
-],
-"category": "airplanes",
-"rewardCount": 1
-},
-{
-"items": [
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/1/1.jpg",
-"title": "Megalodon",
-"description": "Adds a large shark - megalodon.\n\nThe mod has two parts:\n\nBody;\nJaw.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/1/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/1/megalooddon.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/2/1.jpg",
-"title": "Dinosaur skeleton",
-"description": "The Dinosaur Skeleton mod is similar to the Tyrannosaurus Rex. Perfect for any survival scenario or setting up a Jurassic World scene.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/2/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/2/dinosaurskelet.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/3/1.jpg",
-"title": "Cornobul - mutants, weapons, things",
-"description": "Cornobul – это мод включающий в себя 26 различных вещей, оружия и мутантов. Сделан на тему «Чернобыля».",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/3/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/3/cernoobyll.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/5/1.jpg",
-"title": "SCP mod - monsters and anomaly",
-"description": "The topic of scp in games has always been interesting for its anomalous additions. This pack is dedicated to scp and contains 14 additions to Melon.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/5/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/5/scppmod.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/6/1.jpg",
-"title": "Undersea world",
-"description": "Mod on the theme of the marine underwater world with sharks, a protective capsule for a diver and underwater mines.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/6/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/6/underseaworld.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/8/1.jpg",
-"title": "Cat statue",
-"description": "Every home should have a cat! Use this cat mod when decorating your home.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/8/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/animals/8/catstat.zip"
-}
-],
-"rewardCount": 1,
-"category": "animals"
-},
-{
-"items": [
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/8/1.jpg",
-"title": "Van",
-"description": "Adds a van in which you can plant a watermelon, load it with various cargoes and send it to trade in another country.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/8/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/8/vaan.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/9/1.jpg",
-"title": "GAZ Tiger - constructor",
-"description": "Using this mod you have to assemble the Tiger from the constructor. The pack contains:\n\nBasis GAZ Tiger\nWheel\nKenguryatnik\nSeat\nSpare wheel\nIt can be used just like an armored car and an SUV!\n\nPeculiarities:\n\nFlat hitboxes.\nNothing needs to be increased.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/9/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/9/gaztiger.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/10/1.jpg",
-"title": "Police pack",
-"description": "Pack on a police theme with a helicopter, pistol, police and special vehicles.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/10/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/10/policee.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/12/1.jpg",
-"title": "Katyusha",
-"description": "It adds the Soviet multiple launch rocket system - Katyusha. The author advises to use \"resize\".",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/12/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/12/Katyushaaa.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/15/1.jpg",
-"title": "Truck with a trailer",
-"description": "The mod adds a truck with trailers in which you can load anything you want. The truck comes without wheels, you will need to install them yourself.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/15/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/15/trucktrailer.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/16/1.jpg",
-"title": "Big Russian mod 6!",
-"description": "6 version of the Russian mod, which was replenished with new items, cars and other additions with which you can create a cool Russian location.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/16/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/16/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/16/rusbeta.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/17/1.jpg",
-"title": "Pack of cars",
-"description": "The mod will add 10 different cars and a bonus weapon (SCAR) to Melon Playground. Cars of different classes and purposes, you can fill a pickup truck with pumpkins and crash into a wall or create a racing-themed map.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/17/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/17/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/17/packcars.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/18/1.jpg",
-"title": "Survival V5 - 42 items",
-"description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/18/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/18/survivitem.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/19/1.jpg",
-"title": "Vaz 2106 - eggplant",
-"description": "The mod adds the Soviet six (VAZ 2106) in the cool color \"Eggplant\". After installation, look for it in the section with swords.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/19/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/19/vaz2106.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/20/1.jpg",
-"title": "Pixel Car Racing - racing cars",
-"description": "The famous Soviet AKS-74 assault rifle with a folding iron stock.\n\nPeculiarities:\n\nYou can take it in hand.\nFlat hitboxes.\nDoesn't shoot.\nGlow only one.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/20/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/20/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/20/pixcarmod.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/21/1.jpg",
-"title": "Russian V5 - Russian mod",
-"description": "The Russian V5 mod contains a lot of things that are related to Russia. There is the Russian president, UAZ and Russian cars, a bottle of fire water, Navalny, grandmothers, herring, coins and more. There are 52 additions in total.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/21/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/21/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/21/russbetat.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/23/1.jpg",
-"title": "Mod for 3 civilians and 1 police car",
-"description": "Archive with 4 cars. One of them is a policeman, the rest look like racing ones.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/23/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/23/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/cars/23/modcarrra.zip"
-}
-],
-"category": "Cars",
-"rewardCount": 1
-},
-{
-"items": [
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/1/1.jpg",
-"title": "Grocery store",
-"description": "Pak includes:\n\nPrice tags: Weights, tea, rubber ring, kettle, plates, mugs, pumpkins, watermelon, apples and corn\nBasket and trolley in which you can put items\nCash register\nScales that can be increased at will with resize",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/1/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/1/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/1/shop.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/6/1.jpg",
-"title": "Multi-storey building",
-"description": "Includes three items.\n\nInstallation recommendation:\n\nLast floor - 1 piece\nMiddle floor - as much as you like\nFirst floor - 1 pc.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/6/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/6/Housemult.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/8/1.jpg",
-"title": "Two-storey house",
-"description": "Adds a large two-story house to accommodate Melon residents. It is possible to change the size using \"Resize\".",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/8/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/8/House.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/9/1.jpg",
-"title": "Pack of different blocks",
-"description": "A large mod pack of different blocks to create cool scenarios in Melon. There are 16 items in total.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/9/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/9/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/9/blockdiffer.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/10/1.jpg",
-"title": "Cannon turret",
-"description": "Adds a structure in the form of a turret. Suitable for a roadblock or a military scenario theme.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/10/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/10/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/10/cannonturr.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/11/1.jpg",
-"title": "Military things",
-"description": "Create a real military corner with control systems using this mod. The pack contains furniture and weapons. There are 13 items in total.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/11/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/11/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/11/militarything.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/12/1.jpg",
-"title": "Grave stone",
-"description": "Adds a tombstone. There was already a similar mod, this one is its remake. Maybe someone will come in handy.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/12/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/12/grave.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/13/1.jpg",
-"title": "Decorative ventilation",
-"description": "You can use it for decoration. So that the character does not hit his head on the ventilation, click on Enable Collision.\n\nA screenshot of the vent burning with a watermelon is just a screenshot, it doesn't work in the mod unless the vent itself is set on fire.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/13/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/13/decorativeventilat.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/14/1.jpg",
-"title": "Decorative pipe 2",
-"description": "Adds a decorative pipe that can be combined with similar modifications from the plumbing and construction section.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/14/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/14/tubepipe2.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/15/1.jpg",
-"title": "Blocks from Minecraft",
-"description": "The mod will add 9 new items familiar from the game Minecraft. These are the following blocks:\n\nWood;\nAxe;\nOak planks;\nWooden plank;\nBrick;\nPumpkin;\nWatermelon;\nBarrel.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/15/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/15/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/15/blocksminecraft.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/16/1.jpg",
-"title": "Pipeline pipes",
-"description": "The mod adds 5 items with which you can create requirements of different sizes and positions. To fasten, use a pause and then fix with ropes.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/16/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/16/pipelinepipe.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/17/1.jpg",
-"title": "Neon blocks",
-"description": "The mod adds 6 new neon blocks of different colors. Excellent materials for building an entertainment club or bar.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/17/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/17/Neonss.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/18/1.jpg",
-"title": "Bunker with additional things",
-"description": "Mod for the bunker, and many other things! It is able to decorate your game by introducing more approximate things into it, for the theme of war.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/18/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/18/bunkergd.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/19/1.jpg",
-"title": "Fort - closed fortification with cannons",
-"description": "A fort is a stand-alone fortification with several cannons to protect the game lines. In the game, it cannot shoot (yet), but it will perfectly decorate the military map.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/19/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/19/fortcannon.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/20/1.jpg",
-"title": "Pack of blocks",
-"description": "The mod adds a pack of blocks that will greatly help in the construction of various objects and maps.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/20/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/20/Blockspack.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/21/1.jpg",
-"title": "Two-storey house with three rooms",
-"description": "The mod will add a small two-story house with three rooms. Initially, it is smaller than the game characters themselves, so change the size of the house in the settings (photo below).",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/21/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/21/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/21/twohouse.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/22/1.jpg",
-"title": "Big house",
-"description": "The mod will add a large house size, which can be changed with the \"resize\" settings.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/22/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/22/bighouse.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/23/1.jpg",
-"title": "Laboratory",
-"description": "Experiment with people, do various studies using the liquid from the pack, diversify the gameplay with the laboratory mod.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/23/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/23/laboratorymood.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/24/1.jpg",
-"title": "Headstones",
-"description": "The mod adds elements of the grave using which you can make a creepy map.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/24/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/24/headstonee.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/25/1.jpg",
-"title": "Bedroom",
-"description": "The mod contains 10 items related to the bedroom.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/25/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/25/Bedroomn.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/26/1.jpg",
-"title": "School building",
-"description": "Add a school building to the game and use other mods to decorate the area around the building. The mod goes great with the characters from the animated series South Park.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/26/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/26/schoolkl.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/27/1.jpg",
-"title": "Five-storey building",
-"description": "A five-story house with dynamic floors where you can install furniture and interior items. Great building to create a small town in the melon playground.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/27/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/27/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/27/fivestorehouse.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/28/1.jpg",
-"title": "Street lights (lighting)",
-"description": "The street lights are blue in color and can light up when heated. An excellent lighting mod that will decorate the territory of the building in the form of a country house.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/28/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/28/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/28/streetlight.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/29/1.jpg",
-"title": "Moat",
-"description": "The mod will add a structure in the form of a moat or something similar, where there is water. The water here is visual and does not give a real effect if it were real.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/29/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/29/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/29/watermoat.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/31/1.jpg",
-"title": "Pack of home and office furniture",
-"description": "A large pack for furniture and various items that are suitable for decorating a house, apartment and office. There is everything you need for a good life of your game heroes.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/31/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/31/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/31/mebel.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/32/1.jpg",
-"title": "Pack for many items",
-"description": "Introduces the 2nd beta version of the mega pack of items from Minecraft for Melon. There are 72 add-ons in total, of which it is not recommended to take a block called “SFFONADA” during construction, because. it is very large and can destroy your starting building.\n\nThe pack has almost all the blocks, beams, interior items, torches, food, lane heroes and much more.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/32/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/32/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/32/beta.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/33/1.jpg",
-"title": "Survival V5",
-"description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/33/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/33/survival.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/34/1.jpg",
-"title": "Pack of Minecraft blocks",
-"description": "A large mod pack on the theme of the Minecraft game, which will add a lot of blocks, food, torches and other interesting items to Melon with which you can make a cool map. In total, there are 45 items in the pack for today.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/34/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/34/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/34/betapack.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/36/1.jpg",
-"title": "Statue of a soldier with a rifle",
-"description": "Use the statue of a soldier to recreate a war-themed map or honor the memory of military personnel involved in combat conflicts.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/36/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/36/statuesoldier.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/37/1.jpg",
-"title": "Items for video recording",
-"description": "The Movie Production mod contains the items needed to create TV shows or short cutscenes. The kit includes a chroma key, microphones, a video camera and more.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/37/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/37/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/37/recordingvideo.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/38/1.jpg",
-"title": "Tree without leaves",
-"description": "The tree mod is a small leafless tree, more suitable for decorating horror-themed maps.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/38/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/38/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/38/woodwleaves.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/39/1.jpg",
-"title": "Monument to the victory over the virus",
-"description": "The monument in the form of a soldier was dedicated to the victory over an unknown virus. Perfectly suitable as an interior map of a military theme.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/39/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/39/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/buildings/39/monumentvirusvict.zip"
-}
-],
-"category": "buildings",
-"rewardCount": 1
-},
-{
-"items": [
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/1/1.jpg",
-"title": "Tiny Furniture",
-"description": "Someone is already familiar with this mod, it has been updated and received version 4.0.\n\nFixed bugs in textures\nPlaced all items in separate categories (Kitchen/Bathroom/Bedroom)\nMoved Room's to the \"Building\" tab\nIn the pack:\n\nBathroom\nWhite Nightstand\nKettle\nChair\nCoffee table\nFridge\nBed\nKitchen Cabinet\nMacBook (Notebook)\nMicrowave\nMini wardrobe\nPlate\nRadio\nSink\nRoom\nCupboard\nwhite wardrobe\nBig wardrobe\nWashing machine\nTable\nBedside table\nTelevision\nToilet\nBathroom\nWardrobe with seat",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/1/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/1/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/1/tinyfurnitur.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/2/1.jpg",
-"title": "Bar theme pack",
-"description": "Items from the mod can be used to create a bar or bar environment. The package contains:\n\nTable;\nChair with backrest (Glow available);\nChair without a back (There is a Glow);\nMug with a drink (There is a Glow).\nThe circle needs to be enlarged.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/2/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/2/bartheme.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/3/1.jpg",
-"title": "Desk lamp",
-"description": "A small pack of various lamps for the table. The package contains:\n\nRed\nBlue\nBlack\nGreen\nAll have a glow texture.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/3/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/3/TableLamp.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/4/1.jpg",
-"title": "Big pack of props",
-"description": "Big pack for various items. A total of 34 add-ons for different scenarios.\n\nWhat is:\n\nCardboard box\nMailbox\nBench\nLantern st.\nSuitcase\nCone\nTrash can\nCactus\nwet floor sign\nSurveillance Camera\nFlower\nWatch\nshopping cart\nFlash drive\nUmbrella\nTraffic light\nBooks\nExit sign\nStop sign\nGame arcade machine\nPainting\nold pc\nCooler\niron locker\nPot\nDrill\nsun lounger\nComputer (Monitor, keyboard, system unit, mouse)\nBroom\nLog\nCandle",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/4/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/4/Largepackprops.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/5/1.jpg",
-"title": "Boxes from FNAF2",
-"description": "A small pack of boxes from a familiar game. In the pack:\n\nwhite box\npurple box\nlettuce box\nPuppet Box",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/5/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/5/fnafbox.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/6/1.jpg",
-"title": "Decorations for street and house",
-"description": "The pack contains 12 decor items with which you can decorate the living space and the street. Suitable for any scenario, especially on the theme of rest in the village with my grandmother.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/6/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/6/moddecoration.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/7/1.jpg",
-"title": "Pack of school items",
-"description": "Mod adds a large number of different items related to the school.\n\nIn the pack:\n\nDesk with a chair;\nTextbooks on society, algebra and a random book;\nMarker board with markers (they can be folded into the hole in the board);\nChalk board and chalk;\nPencil case with pen and pencil;\nThe ruler is exactly 1 game meter;\nSmall ruler for 30 game cm;\nDiary, side and front views.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/7/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/7/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/7/packitemschool.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/9/1.jpg",
-"title": "Decorative basket",
-"description": "Adds a basket (you can't put anything in it), it can burn, and floats in water.\n\nWorks as a decor, can work in different scenarios.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/9/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/9/WovenBasket.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/10/1.jpg",
-"title": "Bathroom items",
-"description": "This set includes:\n\nShower\nToilet\nWashbasin-bedside table\nToothbrush\nShampoo\nBathroom\nSoap",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/10/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/10/YourBathroom.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/11/1.jpg",
-"title": "Shelves",
-"description": "The mod will add shelves that are used as decor in your scenarios. They can be pierced with knives or swords.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/11/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/11/shelfes.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/12/1.jpg",
-"title": "Kitchen pack",
-"description": "There are various mods that are suitable for the kitchen utensils section. There are also several products. In total there are 7 items in the pack:\n\nSalt;\nSugar;\nJuice;\nPlate;\nKitchen rack;\nFrying pan.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/12/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/12/kitchenpack.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/13/1.jpg",
-"title": "BATHROOM MOD",
-"description": "The mod will add 14 items that you see every day in your bathroom and toilet. With this mod, you can create a fun script for Melon and for recording your videos.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/13/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/13/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/13/BATHROOMmod.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/14/1.jpg",
-"title": "Bunk bed",
-"description": "Maud add a bed in two floors. Also under the first bed visually there are additional drawers. Perfect for arranging a room in the game.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/14/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/14/mybedbunk.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/15/1.jpg",
-"title": "Computer desk and PC",
-"description": "Mod adds 3 items using which you get a place under the computer. In the mod:\n\nTable;\nPC itself;\nMonitor.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/15/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/15/pcdesk.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/16/1.jpg",
-"title": "Doors",
-"description": "Three doors: for the bathroom, closed and open. Good for building houses or decorating apartments in the game.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/16/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/16/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/16/Doormod.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/17/1.jpg",
-"title": "Gamer mod",
-"description": "The mod contains five gaming items with which you can equip a gaming place in Melon Playground. There is:\n\nJoystick PS4;\nThe console itself;\nA computer;\nKeyboard;\nMonitor.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/17/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/17/gamermodd.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/20/1.jpg",
-"title": "Bed",
-"description": "The mod will add an excellent bed on which you can put a person to sleep. Use as additional furniture when arranging a house or apartment.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/20/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/20/beedds.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/21/1.jpg",
-"title": "Household appliances and some furniture",
-"description": "The mod contains 21 items, most of which are various furniture and accessories, a lot of household appliances necessary for furnishing a house or apartment.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/21/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/21/housefurnit.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/22/1.jpg",
-"title": "Items to create an office",
-"description": "With this mod, you can equip your office room. The mod contains 8 items.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/22/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/22/officeitems.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/23/1.jpg",
-"title": "Pack of home and office furniture",
-"description": "A large pack for furniture and various items that are suitable for decorating a house, apartment and office. There is everything you need for a good life of your game heroes.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/23/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/23/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/23/packhomfurnit.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/24/1.jpg",
-"title": "Survival V5",
-"description": "The Survival V5 mod is the latest version of the survival mod. Here the author finalized some textures and improved the whole pack. There are many items that are necessary for survival in difficult conditions far from civilization. It contains 42 items in total.\n\nThe entire composition of the pack with Russian translation, the author also added one item that displays the author's name and the method of communication.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/24/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/24/survivpl.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/25/1.jpg",
-"title": "Items for video recording",
-"description": "The Movie Production mod contains the items needed to create TV shows or short cutscenes. The kit includes a chroma key, microphones, a video camera and more.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/25/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/25/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/25/videorecord.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/26/1.jpg",
-"title": "Room furniture mod",
-"description": "The mod includes several pieces of furniture that will allow you to furnish the room.\n\nTelevision;\nTV table;\nArmchair;\nShelf for books;\nColumn;\nPalm tree painting.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/26/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/furniture/26/roomfurnitur.zip"
-}
-],
-"category": "furniture",
-"rewardCount": 1
-},
-{
-"items": [
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/1.jpg",
-"title": "Barbell",
-"description": "Adds a sports equipment in the form of a barbell. It is very heavy and, if used incorrectly, can destroy a person.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/barbelll.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/3/1.jpg",
-"title": "Boxing mod",
-"description": "The mod will add a few things related to the theme of boxing. This includes:\n\nPunching bag;\nGloves;\nBoxing ring.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/3/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/3/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/3/boxingomd.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/5/1.jpg",
-"title": "Basketball and hoop",
-"description": "The mod adds basketball paraphernalia to the game, namely the ball and the ring.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/5/1.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/5/baskethop.zip"
-},
-{
-"preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/7/1.jpg",
-"title": "Ring mod",
-"description": "Используйте ринг для создания видосов или картинок на тему бокса или других единоборств в Мелон Плейграунд.",
-"images": [
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/7/1.jpg",
-"https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/7/2.jpg"
-],
-"resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/7/ringgmod.zip"
-}
-],
-"category": "sport",
-"rewardCount": 1
+]
 }
 ]
