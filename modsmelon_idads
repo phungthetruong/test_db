@@ -10,6 +10,6 @@
 "idads_iron": "1a72b18d",
 "on_inter": "on",
 "on_inapp": "on",
-"on_close": "off"
+"on_close": "on"
 }
 ]
