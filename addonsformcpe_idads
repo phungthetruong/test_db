@@ -7,7 +7,7 @@
 "native_admob22": "ca-app-pub-2080810392758235/41550338",
 "idads_iron": "d0e94d",
 "on_inter": "on",
-"on_inapp": "on",
-"on_close": "on"
+"on_inapp": "off",
+"on_close": "off"
 }
 ]
