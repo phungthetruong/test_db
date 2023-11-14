@@ -6,8 +6,8 @@
 "banner_admob": "ca-app-pub-9860623265957751/7045860664",
 "native_admob22": "ca-app-pub-9860623265957751/4487145931",
 "idads_iron": "13cb159",
-"on_inter": "on",
-"on_inapp": "on",
-"on_close": "on"
+"on_inter": "off",
+"on_inapp": "off",
+"on_close": "off"
 }
 ]
