@@ -1,7 +1,5 @@
 [
 {
-"tanks_melon": [
-{
 "preview": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/sport/2/1.jpg",
 "title": "Barbell",
 "description": "Adds a sports equipment in the form of a barbell. It is very heavy and, if used incorrectly, can destroy a person.",
@@ -1882,7 +1880,5 @@
 "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/weapons/54/1.jpg"
 ],
 "resource": "https://atua.iosdevsupport.biz/files/SkinsIliuha/MELONPLAYGROUND/weapons/54/TerrariaMelee.zip"
-}
-]
 }
 ]
