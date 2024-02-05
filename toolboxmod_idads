@@ -8,7 +8,7 @@
 "native_admob33": "ca-app-pub-3940256099942544/2247110",
 "rewar_admob": "ca-app-pub-3940256099942544/52244917",
 "idads_iron": "1388b1",
-"on_inter": "on",
+"on_inter": "off",
 "on_inapp": "on",
 "on_close": "off"
 }
