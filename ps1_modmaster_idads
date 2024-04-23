@@ -3,7 +3,7 @@
 "inter_admob": "ca-app-pub-2015200783771402/926997",
 "native_admob": "ca-app-pub-2015200783771402/910892",
 "banner_admob": "ca-app-pub-2015200783771402/791449",
-"on_inter": "on",
-"on_inapp": "on"
+"on_inter": "off",
+"on_inapp": "off"
 }
 ]
