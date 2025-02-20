@@ -9,7 +9,7 @@
 "rewar_admob": "ca-app-pub-3940256099942544/52244917",
 "idads_iron": "1388b1",
 "on_inter": "off",
-"on_inapp": "off",
+"on_inapp": "on",
 "on_close": "off"
 }
 ]
